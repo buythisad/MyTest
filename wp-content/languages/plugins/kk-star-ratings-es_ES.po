@@ -1,0 +1,273 @@
+# Translation of Plugins - kk Star Ratings - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - kk Star Ratings - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-24 16:18:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - kk Star Ratings - Stable (latest release)\n"
+
+#: views/metabox/index.php:34
+msgid "Disable"
+msgstr "Desactivar"
+
+#: views/metabox/index.php:30
+msgid "Enable"
+msgstr "Activar"
+
+#: views/metabox/index.php:26
+msgid "Auto"
+msgstr "Automático"
+
+#: views/metabox/index.php:13
+msgid "Reset Ratings"
+msgstr "Restablecer puntuaciones"
+
+#: src/admin/general.php:104
+msgid "Manual Control"
+msgstr "Control manual"
+
+#: src/admin/general.php:106
+msgid "Select the post types that should not auto embed the<br>markup and will be manually controlled by the theme.<br>E.g. Using %s in your template."
+msgstr "Selecciona los tipos de contenido que no deberían incrustar automáticamente el<br>marcado y que serán controlados manualmente por el tema.<br>P. ej.: usando %s en tu plantilla."
+
+#: src/admin/general.php:49
+msgid "Posts"
+msgstr "Entradas"
+
+#: src/admin/general.php:50
+msgid "Pages"
+msgstr "Páginas"
+
+#: src/admin/general.php:153
+msgid "Disable Categories"
+msgstr "Desactivar categorías"
+
+#: src/admin/appearance.php:22
+msgid "Total number of stars."
+msgstr "Número total de estrellas"
+
+#: src/admin/appearance.php:19
+msgid "Stars"
+msgstr "Estrellas"
+
+#: src/ajax.php:29
+msgid "Unauthorized."
+msgstr "No autorizado."
+
+#: src/ajax.php:55
+msgid "A rating is required to vote."
+msgstr "Es obligatorio seleccionar una puntuación para votar"
+
+#: src/admin/general.php:123
+msgid "Disable Locations"
+msgstr "Desactivar ubicaciones"
+
+#: src/admin/general.php:137
+msgid "Home page"
+msgstr "Página de inicio"
+
+#: src/admin/general.php:141
+msgid "Archives"
+msgstr "Archivos"
+
+#: src/admin/appearance.php:29
+msgid "Size"
+msgstr "Tamaño"
+
+#: src/admin/appearance.php:32
+msgid "Size of a single star."
+msgstr "Tamaño de una sola estrella"
+
+#: src/admin/appearance.php:39
+msgid "Fill color"
+msgstr "Color de relleno"
+
+#: src/admin/appearance.php:42
+msgid "Fill color of stars."
+msgstr "Color de relleno de las estrellas."
+
+#: src/ajax.php:22
+msgid "This action is forbidden."
+msgstr "Esta acción está prohibida."
+
+#: src/admin/general.php:160
+msgid "Exclude star ratings from posts belonging to the selected categories.<br>Use <strong>cmd/ctrl + click</strong> to select/deselect multiple categories."
+msgstr "Excluir las puntuaciones de estrellas de las entradas pertenecientes a las categorías seleccionadas.<br>Utiliza <strong>cmd/ctrl + click</strong> para seleccionar o anular la selección de varias categorías."
+
+#: src/admin/general.php:125
+msgid "Select the locations where the star ratings should be excluded."
+msgstr "Selecciona las ubicaciones donde deben ser excluidas las puntuaciones de estrellas."
+
+#: src/admin/general.php:208
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: src/admin/general.php:201
+msgid "Bottom Center"
+msgstr "Abajo en el centro"
+
+#: src/admin/general.php:194
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: src/admin/general.php:187
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+#: src/admin/general.php:180
+msgid "Top Center"
+msgstr "Arriba en el centro"
+
+#: src/admin/general.php:173
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: src/admin/general.php:169
+msgid "Choose a default position."
+msgstr "Elije una posición por defecto."
+
+#: src/admin/general.php:167
+msgid "Default Position"
+msgstr "Posición por defecto"
+
+#: src/admin/general.php:92
+msgid "Unique votes (based on IP Address)"
+msgstr "Votos únicos (basado en la dirección IP)"
+
+#. Author of the plugin
+msgid "Kamal Khan"
+msgstr "Kamal Khan"
+
+#. Plugin Name of the plugin
+msgid "kk Star Ratings"
+msgstr "kk Star Ratings"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/kamalkhan/kk-star-ratings"
+msgstr "https://github.com/kamalkhan/kk-star-ratings"
+
+#. Author URI of the plugin
+msgid "http://bhittani.com"
+msgstr "http://bhittani.com"
+
+#: src/functions.php:513
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: src/functions.php:511
+msgid "General"
+msgstr "General"
+
+#: src/functions.php:372
+msgid "You can only rate between 0 and %s."
+msgstr "Solo puedes puntuar entre 0 and %s."
+
+#: src/admin/rich-snippets.php:18 src/admin/general.php:57
+#: views/metabox/index.php:20
+msgid "Status"
+msgstr "Estado"
+
+#: src/admin/rich-snippets.php:38
+msgid "Type"
+msgstr "Tipo"
+
+#: src/admin/rich-snippets.php:41
+msgid "Structured data type."
+msgstr "Tipo de datos estructurados."
+
+#: src/admin/rich-snippets.php:19 src/admin/general.php:58
+msgid "Active"
+msgstr "Activo"
+
+#: src/admin/general.php:62
+msgid "Globally activate/deactivate the star ratings."
+msgstr "Activar/desactivar globalmente las puntuaciones de estrellas."
+
+#: src/admin/appearance.php:49
+msgid "Stroke color"
+msgstr "Color del trazo"
+
+#: src/admin/appearance.php:52
+msgid "Stroke color of stars."
+msgstr "Color del trazo de las estrellas."
+
+#: src/admin/appearance.php:62
+msgid "Fill color of active stars."
+msgstr "Color de relleno de estrellas activas."
+
+#: src/admin/appearance.php:72
+msgid "Stroke color of active stars."
+msgstr "Color del trazo de estrellas activas."
+
+#: src/admin/appearance.php:79
+msgid "Hover fill color"
+msgstr "Color de relleno al pasar el cursor"
+
+#: src/admin/appearance.php:82
+msgid "Fill color of hover stars."
+msgstr "Color de relleno de las estrellas al pasar el cursor"
+
+#: src/admin/appearance.php:92
+msgid "Stroke color of hover stars."
+msgstr "Color del trazo de las estrellas al pasar el cursor."
+
+#: src/functions.php:512
+msgid "Rich Snippets"
+msgstr "Snippets enriquecidos"
+
+#: src/admin/rich-snippets.php:23
+msgid "Activate/deactivate rich snippets."
+msgstr "Activar/desactivar snippets enriquecidos."
+
+#: src/admin/appearance.php:89
+msgid "Hover stroke color"
+msgstr "Color del trazo al pasar el cursor"
+
+#: src/admin/general.php:69
+msgid "Strategies"
+msgstr "Estrategias"
+
+#: src/admin/general.php:71
+msgid "Select the voting strategies."
+msgstr "Selecciona las estrategias de votación."
+
+#: src/admin/general.php:78
+msgid "Allow voting in archives"
+msgstr "Permitir votar en archivos"
+
+#: src/admin/rich-snippets.php:29
+msgid "Context"
+msgstr "Contexto"
+
+#: src/admin/rich-snippets.php:32
+msgid "Structured data context."
+msgstr "Contexto de los datos estructurados."
+
+#. Description of the plugin
+msgid "Allow blog visitors to involve and interact more effectively with your website by rating posts."
+msgstr "Permite que los visitantes del Blog participen e interactúen de forma más efectiva con tu web puntuando las entradas."
+
+#: src/admin/appearance.php:59
+msgid "Active fill color"
+msgstr "Color de relleno activo"
+
+#: src/admin/appearance.php:69
+msgid "Active stroke color"
+msgstr "Color del trazo activo"
+
+#: src/admin/general.php:85
+msgid "Allow guests to vote"
+msgstr "Permitir votar a usuarios no registrados"
+
+#: src/ajax.php:35
+msgid "An id is required to vote."
+msgstr "Es obligatorio un id para votar."
+
+#: src/ajax.php:49
+msgid "Not allowed to vote."
+msgstr "No tienes permitido votar."

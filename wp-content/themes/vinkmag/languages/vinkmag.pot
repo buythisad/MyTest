@@ -1,0 +1,4360 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Vinkmag\n"
+"POT-Creation-Date: 2019-01-18 18:00+0600\n"
+"PO-Revision-Date: 2019-01-18 17:59+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "Sorry! The Page Not Found."
+msgstr ""
+
+#: 404.php:22
+msgid "The link you followed probably broken or the page has been removed."
+msgstr ""
+
+#: 404.php:23
+msgid "Back to Home"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:38
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:41
+msgid "Header Footers"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:39
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:74
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:75
+msgid "Header Footer"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:40
+msgid "HeaderFooter Builder"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:42
+#: PLUGIN/ekit-megamenu/app/post_type.php:17
+msgid "Add New"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:43
+msgid "Add New Template"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:44
+msgid "New Template"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:45
+msgid "Edit Template"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:46
+msgid "View Template"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:47
+msgid "All Templates"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:48
+msgid "Search Templates"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:49
+msgid "Parent Templates:"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:50
+msgid "No Templates found."
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:51
+msgid "No Templates found in Trash."
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:84
+msgid "Elementskit options"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:106
+msgid "Activate for"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:110
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:71
+msgid "None"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:111
+msgid "Header"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:113
+msgid "Before Footer"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:115
+msgid "Footer"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:121
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:245
+msgid "Shortcode"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:122
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content."
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:134
+msgid "Enable Layout for Elementor Canvas Template?"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:136
+msgid ""
+"Enabling this option will display this layout on pages using Elementor "
+"Canvas Template."
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:191
+#, php-format
+msgid "Template %1$s is already assigned to the location %2$s"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/admin/class-admin.php:244
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2642
+#: core/libs/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/controls/icon/control.php:1401
+#: PLUGIN/ekit-headerfooter/elements/controls/icon/control.php:1402
+#: PLUGIN/ekit-megamenu/app/elements/controls/icon/control.php:1401
+#: PLUGIN/ekit-megamenu/app/elements/controls/icon/control.php:1402
+#: components/editor/elementor/controls/icon.php:1435
+#: components/editor/elementor/controls/icon.php:1436
+msgid "Select Icon"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:20
+msgid "Nav menu"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:47
+msgid "Menu settings"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:56
+msgid "Select menu"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:65
+msgid "Horizontal main menu"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:69
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:16
+#: components/editor/elementor/widgets/date.php:81
+#: components/editor/elementor/widgets/logo.php:91
+#: components/editor/elementor/widgets/nav-search.php:70
+#: components/editor/elementor/widgets/vertical-slider-2.php:149
+#: components/editor/elementor/widgets/video-popup.php:81
+#: components/theme/options/customizer/options-blocks.php:103
+#: components/theme/options/taxonomies/category.php:147
+msgid "Left"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:70
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:18
+#: components/editor/elementor/widgets/date.php:85
+#: components/editor/elementor/widgets/logo.php:95
+#: components/editor/elementor/widgets/nav-search.php:74
+#: components/editor/elementor/widgets/vertical-slider-2.php:153
+#: components/editor/elementor/widgets/video-popup.php:85
+#: components/theme/options/customizer/options-blocks.php:104
+#: components/theme/options/taxonomies/category.php:148
+msgid "Center"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:71
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:17
+#: components/editor/elementor/widgets/date.php:89
+#: components/editor/elementor/widgets/logo.php:99
+#: components/editor/elementor/widgets/nav-search.php:78
+#: components/editor/elementor/widgets/vertical-slider-2.php:157
+#: components/editor/elementor/widgets/video-popup.php:89
+#: components/theme/options/customizer/options-blocks.php:105
+#: components/theme/options/taxonomies/category.php:149
+msgid "Right"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:72
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:19
+msgid "Justified"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:80
+msgid "Menu height"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:83
+msgid "80px"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:84
+msgid "20px"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:95
+msgid "Border radius"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:123
+#: components/editor/elementor/widgets/post-grid.php:167
+msgid "Background"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:132
+msgid "Container Background"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:134
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:171
+msgid "#ffffff"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:147
+msgid "Menu item style"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:155
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:12
+msgid "Font size"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:158
+msgid "15px"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:159
+msgid "13px"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:169
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:305
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:20
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:54
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:200
+msgid "Item text color"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:172
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:307
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:70
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:70
+msgid "#000000"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:184
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:296
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:85
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:85
+#: components/editor/elementor/widgets/featured-post.php:112
+#: components/editor/elementor/widgets/home-featured-slider.php:78
+#: components/editor/elementor/widgets/nav-search.php:56
+#: components/editor/elementor/widgets/video-popup.php:56
+msgid "Typography"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:193
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:268
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:83
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:12
+msgid "Spacing"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:220
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:321
+msgid "Hover"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:230
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:61
+msgid "Item background"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:239
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:330
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:26
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:206
+msgid "Item text color (hover)"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:241
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:332
+msgid "#707070"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:260
+msgid "Submenu item style"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:347
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:33
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:213
+msgid "Item background (hover)"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:358
+msgid "Submenu panel style"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:367
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:81
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:83
+msgid "Panel Menu Border"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:376
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:19
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:127
+msgid "Container background"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:385
+msgid "Border Radius"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:412
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:194
+msgid "Conatiner width"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:415
+msgid "220px"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:416
+msgid "200px"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:426
+msgctxt "Border Control"
+msgid "Dimensions"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/elements/widgets/nav-menu/nav-menu.php:437
+msgid "Box Shadow Color"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/inc/class-ekit-headerfooter.php:110
+#, php-format
+msgid ""
+"The <strong>Elementskit Template</strong> plugin requires <strong><a href="
+"\"%s\">Elementor</strong></a> plugin installed & activated."
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/inc/class-ekit-headerfooter.php:217
+msgid "Your current theme is not supported by Elementskit Template"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/inc/class-elements.php:28
+#: PLUGIN/ekit-megamenu/app/elements.php:32
+msgid "Elementskit"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/license/activate-license-control.php:8
+msgid ""
+"Enter your license key here, to activate Crocoblock, and get feature "
+"updates, premium support and unlimited access to the template library."
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/license/activate-license-control.php:12
+msgid "Log in to your account to get your license key."
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/license/activate-license-control.php:13
+msgid "Copy the license key from your account and paste it below."
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/license/activate-license-control.php:16
+#: PLUGIN/ekit-headerfooter/views/dashboard/license/deactivate-license-control.php:8
+msgid "Your License Key"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/license/activate-license-control.php:18
+msgid "Please enter your license key here"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/license/activate-license-control.php:20
+#: PLUGIN/ekit-headerfooter/views/dashboard/skins/install-wizard.php:12
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2819
+#: core/libs/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/license/activate-license-control.php:25
+msgid "Your license key should look something like this:"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/license/deactivate-license-control.php:12
+msgid "Deactivate"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/license/deactivate-license-control.php:15
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/child-theme.php:9
+msgid "Status:"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/plugins/core.php:22
+#: PLUGIN/ekit-headerfooter/views/dashboard/plugins/plugin.php:24
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2816
+#: core/libs/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/plugins/core.php:26
+#: PLUGIN/ekit-headerfooter/views/dashboard/plugins/plugin.php:28
+msgid "Documentation"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/plugins/core.php:30
+msgid "Synchronize Templates Library"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/skins/install-wizard.php:15
+msgid "Install Plugin"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/skins/install-wizard.php:21
+msgid ""
+"You need to install and activate <b>ekitPluginsWizard</b> to manage skins"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/skins/skins-actions.php:8
+msgid "Synchronise Skins Library"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/skins/skins-actions.php:24
+msgid "Activate License to Install Skins"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/skins/skins-list.php:18
+msgid "Live Demo"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/backup-actions.php:10
+msgid "Enable automatic backup"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/backup-actions.php:11
+msgid ""
+"If On - new theme backup will be automaticcally created before each update"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/backup-actions.php:31
+msgid "Create Backup"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/backups-list.php:11
+msgid "File"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/backups-list.php:14
+msgid "Created"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/backups-list.php:17
+msgid "Actions"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/child-theme.php:7
+msgid "Child Theme"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/child-theme.php:15
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2810
+#: core/libs/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/theme.php:21
+msgid "Update now"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/theme.php:26
+msgid "New version available"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/dashboard/theme/theme.php:34
+msgid "Check Updates"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/editor/template-library-error.php:8
+msgid "Template couldn't be loaded. Please activate you license key before."
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/editor/template-library-header-back.php:3
+msgid "Back to Library"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/editor/template-library-header.php:8
+msgid "Close"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/editor/template-library-insert-button.php:4
+#: PLUGIN/ekit-headerfooter/views/editor/template-library-item.php:23
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:101
+msgid "Insert"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/editor/template-library-item.php:31
+msgid "Clone to Library"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/editor/template-library-item.php:42
+msgid "Type:"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/editor/template-library-keywords.php:10
+msgid "Any Topic"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/template-types-popup.php:10
+msgid "Select Template Type"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/template-types-popup.php:14
+msgid "Select Type:"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/template-types-popup.php:27
+msgid "Template Name:"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/template-types-popup.php:28
+msgid "Set template name"
+msgstr ""
+
+#: PLUGIN/ekit-headerfooter/views/template-types-popup.php:32
+msgid "Create Template"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:19
+msgid "Page List"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:36
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-grid/post-grid.php:36
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:36
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-tab/post-tab.php:36
+msgid "Widget settings"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:44
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:44
+msgid "Select Pages"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:55
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:55
+msgid "Select Position"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:59
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:59
+msgid "Vertical list"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:60
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:60
+msgid "Horizontal list"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:68
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:68
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:109
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:153
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:167
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:211
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:67
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:111
+#: components/editor/elementor/widgets/date.php:54
+msgid "Color"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:94
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:94
+msgid "Hover Color"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/page-list/page-list.php:96
+msgid "#333333"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-grid/post-grid.php:19
+msgid "Post Grid"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-grid/post-grid.php:44
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-tab/post-tab.php:44
+#: components/editor/elementor/widgets/category-list.php:145
+#: components/editor/elementor/widgets/featured-post.php:120
+#: components/editor/elementor/widgets/home-featured-slider.php:86
+#: components/editor/elementor/widgets/post-accordion.php:140
+#: components/editor/elementor/widgets/post-block-one.php:184
+#: components/editor/elementor/widgets/post-featured-tab.php:99
+#: components/editor/elementor/widgets/post-grid.php:260
+#: components/editor/elementor/widgets/post-list.php:213
+#: components/editor/elementor/widgets/post-tab-2.php:251
+#: components/editor/elementor/widgets/post-tab.php:183
+#: components/editor/elementor/widgets/trending-post.php:163
+#: components/editor/elementor/widgets/vertical-slider-1.php:157
+#: components/editor/elementor/widgets/vertical-slider-2.php:211
+#: components/editor/elementor/widgets/vertical-slider-3.php:139
+#: components/editor/elementor/widgets/video-post-slider.php:87
+#: components/editor/elementor/widgets/video-post-tab.php:63
+msgid "Select Categories"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-grid/post-grid.php:54
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-tab/post-tab.php:54
+#: components/editor/elementor/widgets/featured-post.php:103
+#: components/editor/elementor/widgets/home-featured-slider.php:69
+#: components/editor/elementor/widgets/post-accordion.php:123
+#: components/editor/elementor/widgets/post-block-slider.php:65
+#: components/editor/elementor/widgets/post-featured-tab.php:39
+#: components/editor/elementor/widgets/post-grid.php:208
+#: components/editor/elementor/widgets/post-list-tab.php:75
+#: components/editor/elementor/widgets/post-list.php:172
+#: components/editor/elementor/widgets/post-tab-2.php:135
+#: components/editor/elementor/widgets/post-tab.php:123
+#: components/editor/elementor/widgets/vertical-slider-1.php:122
+#: components/editor/elementor/widgets/vertical-slider-2.php:182
+#: components/editor/elementor/widgets/vertical-slider-3.php:120
+#: components/editor/elementor/widgets/vertical-slider-4.php:132
+#: components/editor/elementor/widgets/video-post-slider.php:39
+#: components/editor/elementor/widgets/video-post-tab.php:46
+msgid "Post count"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-grid/post-grid.php:56
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-tab/post-tab.php:56
+msgid "3"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-grid/post-grid.php:63
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-tab/post-tab.php:64
+msgid "Select Column"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-grid/post-grid.php:67
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-tab/post-tab.php:68
+msgid "2 Column"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-grid/post-grid.php:68
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-tab/post-tab.php:69
+msgid "3 Column"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-grid/post-grid.php:69
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-tab/post-tab.php:70
+msgid "4 Column"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:19
+#: components/editor/elementor/widgets/post-list.php:16
+msgid "Post List"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-list/post-list.php:96
+msgid "#222222"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/elements/widgets/post-tab/post-tab.php:19
+#: components/editor/elementor/widgets/post-tab.php:16
+msgid "Post Tab"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:16
+msgid "Content"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:17
+msgid "Icon"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:18
+msgid "Badge"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:29
+msgid "Mega submenu enabled"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:30
+msgid "Mega submenu disabled"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:34
+msgid "Edit mega menu content"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:38
+msgid ""
+"This plugin requires Elementor page builder to edt Mega Menu items content"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:45
+msgid "Choose icon color"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:51
+msgid "Select icon"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:54
+msgid "No icon"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:66
+msgid "Badge text"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:68
+msgid "Badge Text"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:73
+msgid "Choose badge color"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:80
+msgid "Choose badge background"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:101
+#: PLUGIN/ekit-megamenu/app/metabox.php:49
+msgid "Save"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:155
+#, php-format
+msgid "Elementskit Mega Menu requires the following plugin: %1$s."
+msgid_plural "Elementskit Mega Menu requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/app/hooks.php:160
+#, php-format
+msgid "Elementskit Mega Menu recommends the following plugin: %1$s."
+msgid_plural "Elementskit Mega Menu recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/app/metabox.php:13
+msgid "Elementskit Megamenu"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/metabox.php:29
+msgid "Enable megamenu?"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/metabox.php:35
+msgid "Theme"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:8
+msgctxt "Post Type General Name"
+msgid "Megamenu items"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:9
+msgctxt "Post Type Singular Name"
+msgid "Megamenu item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:10
+#: PLUGIN/ekit-megamenu/app/post_type.php:11
+#: PLUGIN/ekit-megamenu/app/post_type.php:43
+msgid "Megamenu item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:12
+msgid "Item Archives"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:13
+msgid "Item Attributes"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:14
+msgid "Parent Item:"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:15
+msgid "All Items"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:16
+msgid "Add New Item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:18
+msgid "New Item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:19
+msgid "Edit Item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:20
+msgid "Update Item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:21
+msgid "View Item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:22
+msgid "View Items"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:23
+msgid "Search Item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:24
+msgid "Not found"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:25
+msgid "Not found in Trash"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:26
+msgid "Featured Image"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:27
+msgid "Set featured image"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:28
+msgid "Remove featured image"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:29
+msgid "Use as featured image"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:30
+msgid "Insert into item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:31
+msgid "Uploaded to this item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:32
+msgid "Items list"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:33
+msgid "Items list navigation"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:34
+msgid "Filter items list"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/post_type.php:44
+msgid "ekit_menu_item"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/rest_api.php:30
+#: PLUGIN/ekit-megamenu/app/rest_api.php:55
+msgid "Saved"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings.php:200
+msgid "Download the saved option data."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings.php:206
+msgid "Import previously exported data."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/general-default.php:7
+msgid "Load Font-awesome css?"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/general-default.php:9
+msgid ""
+"If your theme already supports Font-awesome icons, then don't load this here."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/general-default.php:14
+msgid "Load Line-awesome css?"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/general-default.php:16
+msgid ""
+"If your theme already supports Line-aweseome icons, then don't load this "
+"here."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/general-default.php:21
+msgid "CSS output location"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-common.php:7
+msgid "Theme name"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-common.php:18
+msgid "Logo"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-common.php:19
+msgid "Select an logo to show on menu"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-common.php:30
+msgid "Z Index"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-custom.php:7
+msgid "Custom class"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-default.php:11
+msgid "Select theme to edit "
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:6
+msgid "Panel width"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:13
+msgid "Panel background"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:17
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:29
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:37
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:23
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:65
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:107
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:131
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:217
+msgid "From"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:27
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:39
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:47
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:33
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:75
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:117
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:141
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:227
+msgid "To"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:34
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:46
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:54
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:40
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:82
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:124
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:148
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:234
+msgid "Angle (0 - 360deg)"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:40
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:116
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:160
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:52
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:60
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:46
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:88
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:130
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:174
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:218
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:74
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:118
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:154
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:240
+msgid "Opacity (0.1 - 1)"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:49
+msgid "Panel border radius"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:54
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:66
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:168
+msgid "Top left"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:60
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:72
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:174
+msgid "Top right"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:66
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:78
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:180
+msgid "Bottom left"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:72
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:84
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:186
+msgid "Bottom right"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:86
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:144
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:188
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:88
+msgid "Border Top"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:92
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:150
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:194
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:94
+msgid "Border Left"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:98
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:156
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:200
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:100
+msgid "Border Bottom"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:104
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:162
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:206
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:30
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:106
+msgid "Border Right"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:125
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:39
+msgid "Panel box shadow"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:130
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:44
+msgid "X Offset"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:136
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:50
+msgid "Y Offset"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:142
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:56
+msgid "Blur"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mega-menu.php:148
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:62
+msgid "Spread"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:7
+msgid "Menubar height"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:25
+msgid "Menubar background"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-bar.php:61
+msgid "Menubar border radius"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:8
+msgid "Item font size"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:72
+msgid "Uppercase"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:73
+msgid "Lowercase"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:74
+msgid "Capitalize"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:75
+msgid "Unset"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:76
+msgid "Inherit"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-menu-item.php:77
+msgid "Initial"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:6
+msgid "Responsive breakpoint"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:96
+msgid "Item text color (active)"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:103
+msgid "Item background (active)"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:139
+msgid "Mega Menu Border"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-mobile-menu.php:183
+msgid "Sub Menu Border"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:7
+msgid "Item Spacing"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:12
+msgid "padding Top"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:18
+msgid "Padding Left"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:24
+msgid "Padding Bottom"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/settings/style-sub-menu.php:163
+msgid "Conatiner border radius"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/app/walker_menu.php:254
+msgid "No content found"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/admin_page_framework.php:45
+#, php-format
+msgid "The method is called too early. Perform <code>%2$s</code> earlier."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/AdminPageFramework_Factory.php:152
+#, php-format
+msgid "The method is not defined: %1$s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:56
+msgid "The options have been updated."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:57
+msgid "The options have been cleared."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:58
+msgid "Export"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:59
+msgid "Export Options"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:60
+msgid "Import"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:61
+msgid "Import Options"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:62
+msgid "Submit"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:63
+msgid "An error occurred while uploading the import file."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:64
+#, php-format
+msgid "The uploaded file type is not supported: %1$s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:65
+msgid "Could not load the importing data."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:66
+msgid "The uploaded file has been imported."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:67
+msgid "No data could be imported."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:68
+msgid "Upload Image"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:69
+msgid "Use This Image"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:70
+msgid "Insert from URL"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:71
+msgid "Are you sure you want to reset the options?"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:72
+msgid "Please confirm your action."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:73
+msgid "The specified options have been deleted."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:74
+msgid "A problem occurred while processing the form data. Please try again."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:75
+#, php-format
+msgid ""
+"Not all form fields could not be sent. Please check your server settings of "
+"PHP <code>max_input_vars</code> and consult the server administrator to "
+"increase the value. <code>max input vars</code>: %1$s. <code>$_POST</code> "
+"count: %2$s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:76
+msgid "Is it okay to send the email?"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:77
+msgid "The email has been sent."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:78
+msgid "The email has been scheduled."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:79
+msgid "There was a problem sending the email"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:80
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:69
+#: components/theme/options/customizer/options-general.php:65
+msgid "Title"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:81
+msgid "Author"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:82
+msgid "Categories"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:83
+msgid "Tags"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:84
+msgid "Comments"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:85
+#: components/editor/elementor/widgets/date.php:19
+msgid "Date"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:86
+msgid "Show All"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:87
+msgid "Show All Authors"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:88
+msgid "Thank you for creating with"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:89
+msgid "and"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:90
+msgid "Settings"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:91
+msgid "Manage"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:92
+msgid "Select Image"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:93
+msgid "Upload File"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:94
+msgid "Use This File"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:95
+msgid "Select File"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:96
+msgid "Remove Value"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:97
+msgid "Select All"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:98
+msgid "Select None"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:99
+msgid "No term found."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:100
+msgid "Select"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:102
+msgid "Use This"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:103
+msgid "Return to Library"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:104
+#, php-format
+msgid "%1$s queries in %2$s seconds."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:105
+#, php-format
+msgid "%1$s out of %2$s MB (%3$s) memory used."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:106
+#, php-format
+msgid "Peak memory usage %1$s MB."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:107
+#, php-format
+msgid "Initial memory usage  %1$s MB."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:108
+msgid "The allowed maximum number of fields is {0}."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:109
+msgid "The allowed minimum number of fields is {0}."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:110
+msgid "Add"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:111
+msgid "Remove"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:112
+msgid "The allowed maximum number of sections is {0}"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:113
+msgid "The allowed minimum number of sections is {0}"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:114
+msgid "Add Section"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:115
+msgid "Remove Section"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:116
+msgid "Toggle All"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:117
+msgid "Toggle all collapsible sections"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:118
+msgid "Reset"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:119
+#: components/editor/elementor/widgets/block-title.php:103
+#: components/editor/elementor/widgets/block-title.php:114
+#: components/editor/elementor/widgets/category-list.php:44
+#: components/editor/elementor/widgets/category-list.php:117
+#: components/editor/elementor/widgets/category-list.php:137
+#: components/editor/elementor/widgets/featured-post.php:132
+#: components/editor/elementor/widgets/featured-post.php:143
+#: components/editor/elementor/widgets/featured-post.php:153
+#: components/editor/elementor/widgets/featured-post.php:163
+#: components/editor/elementor/widgets/featured-post.php:173
+#: components/editor/elementor/widgets/featured-post.php:184
+#: components/editor/elementor/widgets/home-featured-slider.php:107
+#: components/editor/elementor/widgets/home-featured-slider.php:118
+#: components/editor/elementor/widgets/home-featured-slider.php:128
+#: components/editor/elementor/widgets/home-featured-slider.php:138
+#: components/editor/elementor/widgets/home-featured-slider.php:148
+#: components/editor/elementor/widgets/home-featured-slider.php:159
+#: components/editor/elementor/widgets/logo.php:44
+#: components/editor/elementor/widgets/post-accordion.php:40
+#: components/editor/elementor/widgets/post-accordion.php:52
+#: components/editor/elementor/widgets/post-accordion.php:152
+#: components/editor/elementor/widgets/post-accordion.php:163
+#: components/editor/elementor/widgets/post-block-one.php:42
+#: components/editor/elementor/widgets/post-block-one.php:135
+#: components/editor/elementor/widgets/post-block-one.php:147
+#: components/editor/elementor/widgets/post-block-one.php:176
+#: components/editor/elementor/widgets/post-block-one.php:196
+#: components/editor/elementor/widgets/post-block-one.php:207
+#: components/editor/elementor/widgets/post-block-one.php:218
+#: components/editor/elementor/widgets/post-block-one.php:230
+#: components/editor/elementor/widgets/post-block-one.php:241
+#: components/editor/elementor/widgets/post-block-slider.php:76
+#: components/editor/elementor/widgets/post-block-slider.php:137
+#: components/editor/elementor/widgets/post-block-slider.php:148
+#: components/editor/elementor/widgets/post-featured-tab.php:111
+#: components/editor/elementor/widgets/post-featured-tab.php:122
+#: components/editor/elementor/widgets/post-grid.php:146
+#: components/editor/elementor/widgets/post-grid.php:157
+#: components/editor/elementor/widgets/post-grid.php:189
+#: components/editor/elementor/widgets/post-grid.php:272
+#: components/editor/elementor/widgets/post-grid.php:283
+#: components/editor/elementor/widgets/post-grid.php:293
+#: components/editor/elementor/widgets/post-grid.php:305
+#: components/editor/elementor/widgets/post-grid.php:317
+#: components/editor/elementor/widgets/post-list-tab.php:40
+#: components/editor/elementor/widgets/post-list-tab.php:50
+#: components/editor/elementor/widgets/post-list-tab.php:94
+#: components/editor/elementor/widgets/post-list.php:76
+#: components/editor/elementor/widgets/post-list.php:152
+#: components/editor/elementor/widgets/post-list.php:162
+#: components/editor/elementor/widgets/post-list.php:203
+#: components/editor/elementor/widgets/post-list.php:225
+#: components/editor/elementor/widgets/post-list.php:236
+#: components/editor/elementor/widgets/post-tab-2.php:40
+#: components/editor/elementor/widgets/post-tab-2.php:62
+#: components/editor/elementor/widgets/post-tab-2.php:197
+#: components/editor/elementor/widgets/post-tab-2.php:208
+#: components/editor/elementor/widgets/post-tab.php:40
+#: components/editor/elementor/widgets/post-tab.php:52
+#: components/editor/elementor/widgets/post-tab.php:195
+#: components/editor/elementor/widgets/post-tab.php:206
+#: components/editor/elementor/widgets/post-tab.php:216
+#: components/editor/elementor/widgets/post-tab.php:227
+#: components/editor/elementor/widgets/post-tab.php:238
+#: components/editor/elementor/widgets/trending-post.php:41
+#: components/editor/elementor/widgets/trending-post.php:122
+#: components/editor/elementor/widgets/trending-post.php:133
+#: components/editor/elementor/widgets/trending-post.php:144
+#: components/editor/elementor/widgets/trending-post.php:155
+#: components/editor/elementor/widgets/vertical-slider-1.php:42
+#: components/editor/elementor/widgets/vertical-slider-1.php:114
+#: components/editor/elementor/widgets/vertical-slider-1.php:140
+#: components/editor/elementor/widgets/vertical-slider-1.php:169
+#: components/editor/elementor/widgets/vertical-slider-1.php:180
+#: components/editor/elementor/widgets/vertical-slider-1.php:191
+#: components/editor/elementor/widgets/vertical-slider-2.php:43
+#: components/editor/elementor/widgets/vertical-slider-2.php:129
+#: components/editor/elementor/widgets/vertical-slider-2.php:193
+#: components/editor/elementor/widgets/vertical-slider-2.php:223
+#: components/editor/elementor/widgets/vertical-slider-2.php:234
+#: components/editor/elementor/widgets/vertical-slider-2.php:244
+#: components/editor/elementor/widgets/vertical-slider-3.php:41
+#: components/editor/elementor/widgets/vertical-slider-3.php:151
+#: components/editor/elementor/widgets/vertical-slider-3.php:162
+#: components/editor/elementor/widgets/vertical-slider-3.php:172
+#: components/editor/elementor/widgets/vertical-slider-4.php:41
+#: components/editor/elementor/widgets/vertical-slider-4.php:114
+#: components/editor/elementor/widgets/vertical-slider-4.php:124
+#: components/editor/elementor/widgets/vertical-slider-4.php:143
+#: components/editor/elementor/widgets/vertical-slider-4.php:173
+#: components/editor/elementor/widgets/vertical-slider-4.php:184
+#: components/editor/elementor/widgets/vertical-slider-4.php:194
+#: components/editor/elementor/widgets/video-post-slider.php:99
+#: components/editor/elementor/widgets/video-post-slider.php:110
+#: components/editor/elementor/widgets/video-post-slider.php:120
+#: components/editor/elementor/widgets/video-post-slider.php:131
+#: components/editor/elementor/widgets/video-post-slider.php:142
+#: components/editor/elementor/widgets/video-post-tab.php:75
+#: components/editor/elementor/widgets/video-post-tab.php:86
+#: components/theme/options/customizer/options-blocks.php:52
+#: components/theme/options/customizer/options-blocks.php:119
+#: components/theme/options/customizer/options-blog.php:84
+#: components/theme/options/customizer/options-blog.php:98
+#: components/theme/options/customizer/options-blog.php:112
+#: components/theme/options/customizer/options-blog.php:126
+#: components/theme/options/customizer/options-blog.php:140
+#: components/theme/options/customizer/options-blog.php:154
+#: components/theme/options/customizer/options-blog.php:168
+#: components/theme/options/customizer/options-blog.php:182
+#: components/theme/options/customizer/options-footer.php:19
+#: components/theme/options/customizer/options-general.php:28
+#: components/theme/options/customizer/options-general.php:42
+#: components/theme/options/customizer/options-header.php:60
+#: components/theme/options/customizer/options-header.php:74
+#: components/theme/options/customizer/options-header.php:88
+#: components/theme/options/customizer/options-header.php:102
+#: components/theme/options/customizer/options-page.php:16
+#: components/theme/options/customizer/options-style.php:66
+#: components/theme/options/posts/page.php:17
+#: components/theme/options/posts/post.php:32
+#: components/theme/options/posts/post.php:55
+#: components/theme/options/taxonomies/category.php:23
+#: components/theme/options/taxonomies/category.php:43
+#: components/theme/options/taxonomies/category.php:96
+#: components/theme/options/taxonomies/category.php:163
+msgid "Yes"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:120
+#: components/editor/elementor/widgets/block-title.php:104
+#: components/editor/elementor/widgets/block-title.php:115
+#: components/editor/elementor/widgets/category-list.php:45
+#: components/editor/elementor/widgets/category-list.php:118
+#: components/editor/elementor/widgets/category-list.php:138
+#: components/editor/elementor/widgets/featured-post.php:133
+#: components/editor/elementor/widgets/featured-post.php:144
+#: components/editor/elementor/widgets/featured-post.php:154
+#: components/editor/elementor/widgets/featured-post.php:164
+#: components/editor/elementor/widgets/featured-post.php:174
+#: components/editor/elementor/widgets/featured-post.php:185
+#: components/editor/elementor/widgets/home-featured-slider.php:108
+#: components/editor/elementor/widgets/home-featured-slider.php:119
+#: components/editor/elementor/widgets/home-featured-slider.php:129
+#: components/editor/elementor/widgets/home-featured-slider.php:139
+#: components/editor/elementor/widgets/home-featured-slider.php:149
+#: components/editor/elementor/widgets/home-featured-slider.php:160
+#: components/editor/elementor/widgets/logo.php:45
+#: components/editor/elementor/widgets/post-accordion.php:41
+#: components/editor/elementor/widgets/post-accordion.php:53
+#: components/editor/elementor/widgets/post-accordion.php:153
+#: components/editor/elementor/widgets/post-accordion.php:164
+#: components/editor/elementor/widgets/post-block-one.php:43
+#: components/editor/elementor/widgets/post-block-one.php:136
+#: components/editor/elementor/widgets/post-block-one.php:148
+#: components/editor/elementor/widgets/post-block-one.php:177
+#: components/editor/elementor/widgets/post-block-one.php:197
+#: components/editor/elementor/widgets/post-block-one.php:208
+#: components/editor/elementor/widgets/post-block-one.php:219
+#: components/editor/elementor/widgets/post-block-one.php:231
+#: components/editor/elementor/widgets/post-block-one.php:242
+#: components/editor/elementor/widgets/post-block-slider.php:77
+#: components/editor/elementor/widgets/post-block-slider.php:138
+#: components/editor/elementor/widgets/post-block-slider.php:149
+#: components/editor/elementor/widgets/post-featured-tab.php:112
+#: components/editor/elementor/widgets/post-featured-tab.php:123
+#: components/editor/elementor/widgets/post-grid.php:147
+#: components/editor/elementor/widgets/post-grid.php:158
+#: components/editor/elementor/widgets/post-grid.php:190
+#: components/editor/elementor/widgets/post-grid.php:273
+#: components/editor/elementor/widgets/post-grid.php:284
+#: components/editor/elementor/widgets/post-grid.php:294
+#: components/editor/elementor/widgets/post-grid.php:306
+#: components/editor/elementor/widgets/post-grid.php:318
+#: components/editor/elementor/widgets/post-list-tab.php:41
+#: components/editor/elementor/widgets/post-list-tab.php:51
+#: components/editor/elementor/widgets/post-list-tab.php:95
+#: components/editor/elementor/widgets/post-list.php:77
+#: components/editor/elementor/widgets/post-list.php:153
+#: components/editor/elementor/widgets/post-list.php:163
+#: components/editor/elementor/widgets/post-list.php:204
+#: components/editor/elementor/widgets/post-list.php:226
+#: components/editor/elementor/widgets/post-list.php:237
+#: components/editor/elementor/widgets/post-tab-2.php:41
+#: components/editor/elementor/widgets/post-tab-2.php:63
+#: components/editor/elementor/widgets/post-tab-2.php:198
+#: components/editor/elementor/widgets/post-tab-2.php:209
+#: components/editor/elementor/widgets/post-tab.php:41
+#: components/editor/elementor/widgets/post-tab.php:53
+#: components/editor/elementor/widgets/post-tab.php:196
+#: components/editor/elementor/widgets/post-tab.php:207
+#: components/editor/elementor/widgets/post-tab.php:217
+#: components/editor/elementor/widgets/post-tab.php:228
+#: components/editor/elementor/widgets/post-tab.php:239
+#: components/editor/elementor/widgets/trending-post.php:42
+#: components/editor/elementor/widgets/trending-post.php:123
+#: components/editor/elementor/widgets/trending-post.php:134
+#: components/editor/elementor/widgets/trending-post.php:145
+#: components/editor/elementor/widgets/trending-post.php:156
+#: components/editor/elementor/widgets/vertical-slider-1.php:43
+#: components/editor/elementor/widgets/vertical-slider-1.php:115
+#: components/editor/elementor/widgets/vertical-slider-1.php:141
+#: components/editor/elementor/widgets/vertical-slider-1.php:170
+#: components/editor/elementor/widgets/vertical-slider-1.php:181
+#: components/editor/elementor/widgets/vertical-slider-1.php:192
+#: components/editor/elementor/widgets/vertical-slider-2.php:44
+#: components/editor/elementor/widgets/vertical-slider-2.php:130
+#: components/editor/elementor/widgets/vertical-slider-2.php:194
+#: components/editor/elementor/widgets/vertical-slider-2.php:224
+#: components/editor/elementor/widgets/vertical-slider-2.php:235
+#: components/editor/elementor/widgets/vertical-slider-2.php:245
+#: components/editor/elementor/widgets/vertical-slider-3.php:42
+#: components/editor/elementor/widgets/vertical-slider-3.php:152
+#: components/editor/elementor/widgets/vertical-slider-3.php:163
+#: components/editor/elementor/widgets/vertical-slider-3.php:173
+#: components/editor/elementor/widgets/vertical-slider-4.php:42
+#: components/editor/elementor/widgets/vertical-slider-4.php:115
+#: components/editor/elementor/widgets/vertical-slider-4.php:125
+#: components/editor/elementor/widgets/vertical-slider-4.php:144
+#: components/editor/elementor/widgets/vertical-slider-4.php:174
+#: components/editor/elementor/widgets/vertical-slider-4.php:185
+#: components/editor/elementor/widgets/vertical-slider-4.php:195
+#: components/editor/elementor/widgets/video-post-slider.php:100
+#: components/editor/elementor/widgets/video-post-slider.php:111
+#: components/editor/elementor/widgets/video-post-slider.php:121
+#: components/editor/elementor/widgets/video-post-slider.php:132
+#: components/editor/elementor/widgets/video-post-slider.php:143
+#: components/editor/elementor/widgets/video-post-tab.php:76
+#: components/editor/elementor/widgets/video-post-tab.php:87
+#: components/theme/options/customizer/options-blocks.php:56
+#: components/theme/options/customizer/options-blocks.php:123
+#: components/theme/options/customizer/options-blog.php:88
+#: components/theme/options/customizer/options-blog.php:102
+#: components/theme/options/customizer/options-blog.php:116
+#: components/theme/options/customizer/options-blog.php:130
+#: components/theme/options/customizer/options-blog.php:144
+#: components/theme/options/customizer/options-blog.php:158
+#: components/theme/options/customizer/options-blog.php:172
+#: components/theme/options/customizer/options-blog.php:186
+#: components/theme/options/customizer/options-footer.php:23
+#: components/theme/options/customizer/options-general.php:32
+#: components/theme/options/customizer/options-general.php:46
+#: components/theme/options/customizer/options-header.php:64
+#: components/theme/options/customizer/options-header.php:78
+#: components/theme/options/customizer/options-header.php:92
+#: components/theme/options/customizer/options-header.php:106
+#: components/theme/options/customizer/options-page.php:20
+#: components/theme/options/customizer/options-style.php:70
+#: components/theme/options/posts/page.php:21
+#: components/theme/options/posts/post.php:36
+#: components/theme/options/posts/post.php:59
+#: components/theme/options/taxonomies/category.php:27
+#: components/theme/options/taxonomies/category.php:47
+#: components/theme/options/taxonomies/category.php:100
+#: components/theme/options/taxonomies/category.php:167
+msgid "No"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:121
+msgid "On"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:122
+msgid "Off"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:123
+msgid "Enabled"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:124
+msgid "Disabled"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:125
+msgid "Supported"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:126
+msgid "Not Supported"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:127
+msgid "Functional"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:128
+msgid "Not Functional"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:129
+msgid "Too Long"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:130
+msgid "Acceptable"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:131
+msgid "No log found."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:132
+#, php-format
+msgid "The method is called too early: %1$s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:133
+msgid "Debug Info"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:134
+msgid "Click here to expand to view the contents."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:135
+msgid "Click here to collapse the contents."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:136
+msgid "Loading..."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:137
+msgid "Please enable JavaScript for better user experience."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:138
+msgid "Debug"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:139
+msgid "Field Arguments"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:140
+msgid ""
+"This information will be disabled when <code>WP_DEBUG</code> is set to "
+"<code>false</code> in <code>wp-config.php</code>."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:141
+msgid "Section Arguments"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:142
+msgid "The ability to repeat sections is disabled."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:143
+msgid "The ability to repeat fields is disabled."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/_abstract/_model/AdminPageFramework_Message.php:144
+msgid "Warning."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_color.php:196
+msgid "Clear"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_color.php:196
+msgid "Default"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_color.php:196
+msgid "Select Color"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_color.php:196
+msgid "Current Color"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:65
+msgid "No browser information found."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2646
+#: core/libs/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Language"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Memory Limit"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Multi-site"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Permalink Structure"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Active Theme"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Registered Post Statuses"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Table Prefix"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Table Prefix Length"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Table Prefix Status"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Multibite String Extension"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "WP_CONTENT_DIR Writeable"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Active Plugins"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Network Active Plugins"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Constants"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Safe Mode"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Upload Max Size"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Post Max Size"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Upload Max File Size"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Max Execution Time"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Max Input Vars"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Argument Separator"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Allow URL File Open"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Display Errors"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Log Errors"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Error log location"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Error Reporting Level"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "FSOCKOPEN"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "cURL"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "SOAP"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "SUHOSIN"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Web Server"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Name"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Cookie Path"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Save Path"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Use Cookies"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/apf/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Use Only Cookies"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:334
+#: core/libs/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:335
+#: core/libs/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:337
+#: core/libs/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:339
+#: core/libs/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:340
+#: core/libs/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:343
+#: core/libs/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:349
+#: core/libs/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:355
+#: core/libs/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:361
+#: core/libs/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:367
+#: core/libs/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:373
+#: core/libs/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:378
+#: core/libs/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:383
+#: core/libs/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:388
+#: core/libs/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:392
+#: core/libs/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:393
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:920
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2626
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3673
+#: core/libs/class-tgm-plugin-activation.php:386
+#: core/libs/class-tgm-plugin-activation.php:827
+#: core/libs/class-tgm-plugin-activation.php:2533
+#: core/libs/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:394
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3252
+#: core/libs/class-tgm-plugin-activation.php:387
+#: core/libs/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:395
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3045
+#: core/libs/class-tgm-plugin-activation.php:388
+#: core/libs/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:397
+#: core/libs/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:399
+#: core/libs/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:401
+#: core/libs/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:402
+#: core/libs/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:403
+#: core/libs/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:404
+#: core/libs/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:607
+#: core/libs/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:608
+#: core/libs/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:1027
+#: core/libs/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:1027
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:1030
+#: core/libs/class-tgm-plugin-activation.php:934
+#: core/libs/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:1030
+#: core/libs/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:1214
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3041
+#: core/libs/class-tgm-plugin-activation.php:1121
+#: core/libs/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2075
+#: core/libs/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2366
+#: core/libs/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2369
+#: core/libs/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2385
+#: core/libs/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2388
+#: core/libs/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2391
+#: core/libs/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2408
+#: core/libs/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2412
+#: core/libs/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2414
+#: core/libs/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2420
+#: core/libs/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2423
+#: core/libs/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2426
+#: core/libs/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2435
+#: core/libs/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2481
+#: core/libs/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2485
+#: core/libs/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2489
+#: core/libs/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2493
+#: core/libs/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2575
+#: core/libs/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2583
+#: core/libs/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2591
+#: core/libs/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2603
+#: core/libs/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2626
+#: core/libs/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2640
+#: core/libs/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2641
+#: core/libs/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2647
+#: core/libs/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2696
+#: core/libs/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2701
+#: core/libs/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2707
+#: core/libs/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2777
+#: core/libs/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2850
+#: core/libs/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2852
+#: core/libs/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2893
+#: core/libs/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:2895
+#: core/libs/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3001
+#: core/libs/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3027
+#: core/libs/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3251
+#: core/libs/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3591
+#: core/libs/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3594
+#: core/libs/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3596
+#: core/libs/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3600
+#: core/libs/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3602
+#: core/libs/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3602
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3610
+#: core/libs/class-tgm-plugin-activation.php:3509
+#: core/libs/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3602
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3610
+#: core/libs/class-tgm-plugin-activation.php:3509
+#: core/libs/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3603
+#: core/libs/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3605
+#: core/libs/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3608
+#: core/libs/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3610
+#: core/libs/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3611
+#: core/libs/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: PLUGIN/ekit-megamenu/library/tgmpa/class-tgm-plugin-activation.php:3613
+#: core/libs/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/author/widget-class.php:10
+msgid "A widget that displays an About widget"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/author/widget-class.php:12
+msgid "Vinkmag Author"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/author/widget-class.php:247
+msgid "Name"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/author/widget-class.php:253
+msgid "Description"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/author/widget-class.php:270
+msgid "Google Plus:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/category-list/widget-class.php:14
+#: PLUGIN/vinkmag-essential/includes/widgets/category-list/widget-class.php:17
+msgid "Vinkmag category list"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/category-list/widget-class.php:82
+msgid "WP Categories"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/category-list/widget-class.php:84
+msgid "category"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/footer-address/widget-class.php:12
+#: PLUGIN/vinkmag-essential/includes/widgets/footer-address/widget-class.php:15
+msgid "Vinkmag footer address"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/footer-address/widget-class.php:119
+msgid "Footer address"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/footer-address/widget-class.php:155
+#: PLUGIN/vinkmag-essential/includes/widgets/instagram/widget-class.php:86
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post-tab/widget-class.php:165
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post/widget-class.php:115
+#: PLUGIN/vinkmag-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:77
+msgid "Title:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/footer-address/widget-class.php:159
+msgid "Message"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/footer-address/widget-class.php:165
+msgid "Address:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/footer-address/widget-class.php:171
+msgid "Mobile:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/footer-address/widget-class.php:177
+msgid "Media icon:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/footer-address/widget-class.php:183
+msgid "Map icon:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/footer-address/widget-class.php:189
+msgid "Map button:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/instagram/widget-class.php:15
+msgid "vinazine instagram"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/instagram/widget-class.php:69
+msgid "Instagram"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/instagram/widget-class.php:92
+msgid "Log in and get my Access Token and User ID"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/instagram/widget-class.php:97
+msgid "Access token:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/instagram/widget-class.php:102
+msgid "User ID:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/instagram/widget-class.php:107
+msgid "Count:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post-tab/widget-class.php:9
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post/widget-class.php:9
+msgid "A widget that display latest posts from all categories"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post-tab/widget-class.php:11
+msgid "Vinkmag Latest Posts Tab"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post-tab/widget-class.php:152
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post/widget-class.php:105
+msgid "Blog Posts"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post-tab/widget-class.php:171
+msgid "Tab Left Title:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post-tab/widget-class.php:177
+msgid "Tab Right Title:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post-tab/widget-class.php:183
+msgid "Post Title Crop:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post-tab/widget-class.php:189
+msgid "Sort By"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post-tab/widget-class.php:216
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post/widget-class.php:147
+msgid "Filter by Categories"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post-tab/widget-class.php:228
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post/widget-class.php:159
+msgid "Count of Latest Post"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post/widget-class.php:11
+msgid "Vinkmag Latest Posts"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/recent-post/widget-class.php:121
+msgid "Order By"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:10
+#: PLUGIN/vinkmag-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:13
+msgid "Vinkmag twitter feed"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:25
+#: PLUGIN/vinkmag-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:66
+msgid "Loading!"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:62
+msgid "Twitter feed"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:81
+msgid "Username:"
+msgstr ""
+
+#: PLUGIN/vinkmag-essential/includes/widgets/twitter-feed/class-widget-twitter-feed.php:87
+msgid "Loading text:"
+msgstr ""
+
+#: comments.php:35
+msgid "Enter Name"
+msgstr ""
+
+#: comments.php:36
+msgid "Enter Email"
+msgstr ""
+
+#: comments.php:37
+msgid "Enter Website"
+msgstr ""
+
+#: comments.php:52
+msgid "Enter Comments"
+msgstr ""
+
+#: comments.php:82
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:83
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:84
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:85
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:95 comments.php:128
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:98
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:101 comments.php:134
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:107
+#, php-format
+msgctxt "Comments"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:131
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:141
+msgid "Comments are closed."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: components/editor/elementor/elementor.php:87
+msgid "Vinkmag"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:19
+#: components/editor/elementor/widgets/video-post-tab.php:38
+msgid "Block Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:36
+#: components/editor/elementor/widgets/call-to-action.php:36
+#: components/editor/elementor/widgets/date.php:36
+#: components/editor/elementor/widgets/logo.php:36
+#: components/editor/elementor/widgets/nav-search.php:36
+#: components/editor/elementor/widgets/trending-slider-post.php:36
+#: components/editor/elementor/widgets/video-popup.php:36
+msgid "Title settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:43
+#: components/editor/elementor/widgets/category-list.php:51
+#: components/editor/elementor/widgets/post-accordion.php:59
+#: components/editor/elementor/widgets/post-block-one.php:49
+#: components/editor/elementor/widgets/post-list.php:85
+#: components/editor/elementor/widgets/post-tab-2.php:70
+#: components/editor/elementor/widgets/post-tab.php:59
+#: components/editor/elementor/widgets/trending-post.php:48
+#: components/editor/elementor/widgets/vertical-slider-1.php:49
+#: components/editor/elementor/widgets/vertical-slider-2.php:50
+#: components/editor/elementor/widgets/vertical-slider-3.php:48
+#: components/editor/elementor/widgets/vertical-slider-4.php:48
+msgid "Block title style"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:52
+#: components/editor/elementor/widgets/category-list.php:62
+#: components/editor/elementor/widgets/post-accordion.php:70
+#: components/editor/elementor/widgets/post-block-one.php:59
+#: components/editor/elementor/widgets/post-list.php:97
+#: components/editor/elementor/widgets/post-tab-2.php:82
+#: components/editor/elementor/widgets/post-tab.php:70
+#: components/editor/elementor/widgets/trending-post.php:58
+#: components/editor/elementor/widgets/vertical-slider-1.php:60
+#: components/editor/elementor/widgets/vertical-slider-2.php:61
+#: components/editor/elementor/widgets/vertical-slider-3.php:59
+#: components/editor/elementor/widgets/vertical-slider-4.php:59
+msgid "Block title markup"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:56
+#: components/editor/elementor/widgets/category-list.php:66
+#: components/editor/elementor/widgets/post-accordion.php:74
+#: components/editor/elementor/widgets/post-block-one.php:63
+#: components/editor/elementor/widgets/post-list.php:101
+#: components/editor/elementor/widgets/post-tab-2.php:86
+#: components/editor/elementor/widgets/post-tab.php:74
+#: components/editor/elementor/widgets/trending-post.php:62
+#: components/editor/elementor/widgets/vertical-slider-1.php:64
+#: components/editor/elementor/widgets/vertical-slider-2.php:65
+#: components/editor/elementor/widgets/vertical-slider-3.php:63
+#: components/editor/elementor/widgets/vertical-slider-4.php:63
+msgid "H1"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:57
+#: components/editor/elementor/widgets/category-list.php:67
+#: components/editor/elementor/widgets/post-accordion.php:75
+#: components/editor/elementor/widgets/post-block-one.php:64
+#: components/editor/elementor/widgets/post-list.php:102
+#: components/editor/elementor/widgets/post-tab-2.php:87
+#: components/editor/elementor/widgets/post-tab.php:75
+#: components/editor/elementor/widgets/trending-post.php:63
+#: components/editor/elementor/widgets/vertical-slider-1.php:65
+#: components/editor/elementor/widgets/vertical-slider-2.php:66
+#: components/editor/elementor/widgets/vertical-slider-3.php:64
+#: components/editor/elementor/widgets/vertical-slider-4.php:64
+msgid "H2"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:58
+#: components/editor/elementor/widgets/category-list.php:68
+#: components/editor/elementor/widgets/post-accordion.php:76
+#: components/editor/elementor/widgets/post-block-one.php:65
+#: components/editor/elementor/widgets/post-list.php:103
+#: components/editor/elementor/widgets/post-tab-2.php:88
+#: components/editor/elementor/widgets/post-tab.php:76
+#: components/editor/elementor/widgets/trending-post.php:64
+#: components/editor/elementor/widgets/vertical-slider-1.php:66
+#: components/editor/elementor/widgets/vertical-slider-2.php:67
+#: components/editor/elementor/widgets/vertical-slider-3.php:65
+#: components/editor/elementor/widgets/vertical-slider-4.php:65
+msgid "H3"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:59
+#: components/editor/elementor/widgets/category-list.php:69
+#: components/editor/elementor/widgets/post-accordion.php:77
+#: components/editor/elementor/widgets/post-block-one.php:66
+#: components/editor/elementor/widgets/post-list.php:104
+#: components/editor/elementor/widgets/post-tab-2.php:89
+#: components/editor/elementor/widgets/post-tab.php:77
+#: components/editor/elementor/widgets/trending-post.php:65
+#: components/editor/elementor/widgets/vertical-slider-1.php:67
+#: components/editor/elementor/widgets/vertical-slider-2.php:68
+#: components/editor/elementor/widgets/vertical-slider-3.php:66
+#: components/editor/elementor/widgets/vertical-slider-4.php:66
+msgid "H4"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:60
+#: components/editor/elementor/widgets/category-list.php:70
+#: components/editor/elementor/widgets/post-accordion.php:78
+#: components/editor/elementor/widgets/post-block-one.php:67
+#: components/editor/elementor/widgets/post-list.php:105
+#: components/editor/elementor/widgets/post-tab-2.php:90
+#: components/editor/elementor/widgets/post-tab.php:78
+#: components/editor/elementor/widgets/trending-post.php:66
+#: components/editor/elementor/widgets/vertical-slider-1.php:68
+#: components/editor/elementor/widgets/vertical-slider-2.php:69
+#: components/editor/elementor/widgets/vertical-slider-3.php:67
+#: components/editor/elementor/widgets/vertical-slider-4.php:67
+msgid "H5"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:67
+#: components/editor/elementor/widgets/category-list.php:78
+#: components/editor/elementor/widgets/post-accordion.php:86
+#: components/editor/elementor/widgets/post-block-one.php:75
+#: components/editor/elementor/widgets/post-list.php:113
+#: components/editor/elementor/widgets/post-tab-2.php:99
+#: components/editor/elementor/widgets/post-tab.php:86
+#: components/editor/elementor/widgets/trending-post.php:74
+#: components/editor/elementor/widgets/vertical-slider-1.php:76
+#: components/editor/elementor/widgets/vertical-slider-2.php:77
+#: components/editor/elementor/widgets/vertical-slider-3.php:75
+#: components/editor/elementor/widgets/vertical-slider-4.php:75
+msgid "Block title"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:69
+msgid "block title"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:77
+#: components/editor/elementor/widgets/category-list.php:88
+#: components/editor/elementor/widgets/post-accordion.php:97
+#: components/editor/elementor/widgets/post-block-one.php:86
+#: components/editor/elementor/widgets/post-list.php:124
+#: components/editor/elementor/widgets/post-tab-2.php:109
+#: components/editor/elementor/widgets/post-tab.php:97
+#: components/editor/elementor/widgets/trending-post.php:85
+#: components/editor/elementor/widgets/vertical-slider-1.php:86
+#: components/editor/elementor/widgets/vertical-slider-2.php:88
+#: components/editor/elementor/widgets/vertical-slider-3.php:86
+#: components/editor/elementor/widgets/vertical-slider-4.php:86
+msgid "Block title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:89
+#: components/editor/elementor/widgets/category-list.php:101
+#: components/editor/elementor/widgets/post-accordion.php:110
+#: components/editor/elementor/widgets/post-block-one.php:99
+#: components/editor/elementor/widgets/post-list.php:137
+#: components/editor/elementor/widgets/post-tab-2.php:122
+#: components/editor/elementor/widgets/post-tab.php:110
+#: components/editor/elementor/widgets/trending-post.php:98
+#: components/editor/elementor/widgets/vertical-slider-1.php:99
+#: components/editor/elementor/widgets/vertical-slider-2.php:101
+#: components/editor/elementor/widgets/vertical-slider-3.php:99
+#: components/editor/elementor/widgets/vertical-slider-4.php:99
+msgid "Title seperator background"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:101
+msgid "Show link"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:112
+#: components/editor/elementor/widgets/category-list.php:115
+#: components/editor/elementor/widgets/post-accordion.php:38
+#: components/editor/elementor/widgets/post-block-one.php:174
+#: components/editor/elementor/widgets/post-list-tab.php:48
+#: components/editor/elementor/widgets/post-list.php:160
+#: components/editor/elementor/widgets/post-tab-2.php:38
+#: components/editor/elementor/widgets/post-tab.php:38
+#: components/editor/elementor/widgets/vertical-slider-1.php:112
+#: components/editor/elementor/widgets/vertical-slider-2.php:127
+msgid "Show shadow"
+msgstr ""
+
+#: components/editor/elementor/widgets/block-title.php:122
+#: components/editor/elementor/widgets/block-title.php:134
+#: components/editor/elementor/widgets/call-to-action.php:54
+#: components/editor/elementor/widgets/call-to-action.php:65
+#: components/editor/elementor/widgets/post-block-one.php:111
+#: components/editor/elementor/widgets/post-block-one.php:123
+#: components/editor/elementor/widgets/video-popup.php:45
+msgid "Link"
+msgstr ""
+
+#: components/editor/elementor/widgets/call-to-action.php:19
+msgid "Call to action"
+msgstr ""
+
+#: components/editor/elementor/widgets/call-to-action.php:43
+msgid "Action Thumbnail"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:16
+msgid "Category List"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:32
+msgid "Category"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:42
+#: components/editor/elementor/widgets/post-accordion.php:50
+#: components/editor/elementor/widgets/post-block-one.php:40
+#: components/editor/elementor/widgets/post-list.php:74
+#: components/editor/elementor/widgets/post-tab-2.php:60
+#: components/editor/elementor/widgets/post-tab.php:50
+#: components/editor/elementor/widgets/trending-post.php:39
+#: components/editor/elementor/widgets/vertical-slider-1.php:40
+#: components/editor/elementor/widgets/vertical-slider-2.php:41
+#: components/editor/elementor/widgets/vertical-slider-3.php:39
+#: components/editor/elementor/widgets/vertical-slider-4.php:39
+msgid "Show block title"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:80
+#: components/editor/elementor/widgets/post-accordion.php:88
+#: components/editor/elementor/widgets/post-block-one.php:77
+#: components/editor/elementor/widgets/post-list.php:115
+#: components/editor/elementor/widgets/post-tab-2.php:101
+#: components/editor/elementor/widgets/post-tab.php:88
+#: components/editor/elementor/widgets/trending-post.php:76
+#: components/editor/elementor/widgets/vertical-slider-1.php:78
+#: components/editor/elementor/widgets/vertical-slider-2.php:79
+#: components/editor/elementor/widgets/vertical-slider-3.php:77
+#: components/editor/elementor/widgets/vertical-slider-4.php:77
+#: components/editor/elementor/widgets/video-post-tab.php:40
+msgid "Post Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:126
+msgid "Category count"
+msgstr ""
+
+#: components/editor/elementor/widgets/category-list.php:135
+msgid "Show Category Selector"
+msgstr ""
+
+#: components/editor/elementor/widgets/date.php:43
+#: components/editor/elementor/widgets/logo.php:53
+msgid "Background Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/date.php:65
+#: components/editor/elementor/widgets/logo.php:114
+msgid "Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/date.php:76
+#: components/editor/elementor/widgets/logo.php:86
+#: components/editor/elementor/widgets/nav-search.php:65
+#: components/editor/elementor/widgets/vertical-slider-2.php:144
+#: components/editor/elementor/widgets/video-popup.php:76
+msgid "Alignment"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:16
+msgid "Featured Post Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:32
+#: components/editor/elementor/widgets/home-featured-slider.php:32
+#: components/editor/elementor/widgets/post-accordion.php:32
+#: components/editor/elementor/widgets/post-block-one.php:32
+#: components/editor/elementor/widgets/post-block-slider.php:32
+#: components/editor/elementor/widgets/post-featured-tab.php:32
+#: components/editor/elementor/widgets/post-grid.php:32
+#: components/editor/elementor/widgets/post-list-tab.php:32
+#: components/editor/elementor/widgets/post-list.php:32
+#: components/editor/elementor/widgets/post-tab-2.php:32
+#: components/editor/elementor/widgets/post-tab.php:32
+#: components/editor/elementor/widgets/trending-post.php:32
+#: components/editor/elementor/widgets/vertical-slider-1.php:32
+#: components/editor/elementor/widgets/vertical-slider-3.php:32
+#: components/editor/elementor/widgets/vertical-slider-4.php:32
+#: components/editor/elementor/widgets/video-post-slider.php:32
+#: components/editor/elementor/widgets/video-post-tab.php:32
+msgid "Post"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:39
+msgid "Choose Grid Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:44
+#: components/editor/elementor/widgets/post-grid.php:44
+#: components/editor/elementor/widgets/widget-parts/helpers/block-title-styles-array.php:4
+#: components/editor/elementor/widgets/widget-parts/helpers/block-title-styles-array.php:10
+#: components/editor/elementor/widgets/widget-parts/helpers/block-title-styles-array.php:17
+#: components/editor/elementor/widgets/widget-parts/helpers/block-title-styles-array.php:23
+msgid "Style 1"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:50
+#: components/editor/elementor/widgets/post-grid.php:50
+msgid "Style 2"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:56
+#: components/editor/elementor/widgets/post-grid.php:56
+msgid "Style 3"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:62
+#: components/editor/elementor/widgets/post-grid.php:62
+msgid "Style 4"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:74
+#: components/editor/elementor/widgets/home-featured-slider.php:40
+#: components/editor/elementor/widgets/post-block-slider.php:94
+msgid "Slider Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:130
+#: components/editor/elementor/widgets/home-featured-slider.php:105
+#: components/editor/elementor/widgets/post-block-one.php:194
+#: components/editor/elementor/widgets/post-grid.php:291
+#: components/editor/elementor/widgets/post-tab.php:193
+#: components/editor/elementor/widgets/trending-post.php:120
+#: components/editor/elementor/widgets/video-post-slider.php:118
+msgid "Show Author"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:141
+#: components/editor/elementor/widgets/home-featured-slider.php:116
+#: components/editor/elementor/widgets/post-tab.php:204
+msgid "Show Author image"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:151
+#: components/editor/elementor/widgets/home-featured-slider.php:126
+#: components/editor/elementor/widgets/vertical-slider-1.php:189
+#: components/editor/elementor/widgets/vertical-slider-2.php:242
+#: components/editor/elementor/widgets/vertical-slider-3.php:170
+#: components/editor/elementor/widgets/vertical-slider-4.php:192
+msgid "AutoPlay"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:161
+#: components/editor/elementor/widgets/home-featured-slider.php:136
+#: components/editor/elementor/widgets/post-accordion.php:150
+#: components/editor/elementor/widgets/post-block-one.php:228
+#: components/editor/elementor/widgets/post-featured-tab.php:109
+#: components/editor/elementor/widgets/post-grid.php:270
+#: components/editor/elementor/widgets/post-list.php:223
+#: components/editor/elementor/widgets/post-tab-2.php:195
+#: components/editor/elementor/widgets/post-tab.php:225
+#: components/editor/elementor/widgets/vertical-slider-1.php:167
+#: components/editor/elementor/widgets/vertical-slider-2.php:221
+#: components/editor/elementor/widgets/vertical-slider-3.php:149
+#: components/editor/elementor/widgets/video-post-slider.php:97
+#: components/editor/elementor/widgets/video-post-tab.php:73
+msgid "Show Date"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:171
+#: components/editor/elementor/widgets/home-featured-slider.php:146
+#: components/editor/elementor/widgets/post-block-one.php:216
+#: components/editor/elementor/widgets/post-grid.php:315
+#: components/editor/elementor/widgets/post-tab.php:214
+#: components/editor/elementor/widgets/trending-post.php:142
+#: components/editor/elementor/widgets/video-post-slider.php:140
+msgid "Show view Count"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:182
+#: components/editor/elementor/widgets/home-featured-slider.php:157
+#: components/editor/elementor/widgets/post-accordion.php:161
+#: components/editor/elementor/widgets/post-block-one.php:239
+#: components/editor/elementor/widgets/post-featured-tab.php:120
+#: components/editor/elementor/widgets/post-grid.php:281
+#: components/editor/elementor/widgets/post-list-tab.php:92
+#: components/editor/elementor/widgets/post-list.php:234
+#: components/editor/elementor/widgets/post-tab-2.php:206
+#: components/editor/elementor/widgets/post-tab.php:236
+#: components/editor/elementor/widgets/trending-post.php:153
+#: components/editor/elementor/widgets/vertical-slider-1.php:178
+#: components/editor/elementor/widgets/vertical-slider-2.php:232
+#: components/editor/elementor/widgets/vertical-slider-3.php:160
+#: components/editor/elementor/widgets/video-post-slider.php:108
+#: components/editor/elementor/widgets/video-post-tab.php:84
+msgid "Show Category"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:193
+#: components/editor/elementor/widgets/home-featured-slider.php:168
+#: components/editor/elementor/widgets/post-accordion.php:171
+#: components/editor/elementor/widgets/post-block-one.php:249
+#: components/editor/elementor/widgets/post-block-slider.php:156
+#: components/editor/elementor/widgets/post-featured-tab.php:130
+#: components/editor/elementor/widgets/post-grid.php:327
+#: components/editor/elementor/widgets/post-list.php:244
+#: components/editor/elementor/widgets/post-tab-2.php:216
+#: components/editor/elementor/widgets/post-tab.php:246
+#: components/editor/elementor/widgets/trending-post.php:173
+#: components/editor/elementor/widgets/vertical-slider-1.php:199
+#: components/editor/elementor/widgets/vertical-slider-2.php:253
+#: components/editor/elementor/widgets/vertical-slider-3.php:180
+#: components/editor/elementor/widgets/vertical-slider-4.php:202
+#: components/editor/elementor/widgets/video-post-slider.php:151
+#: components/editor/elementor/widgets/video-post-tab.php:94
+msgid "Post sort by"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:197
+#: components/editor/elementor/widgets/home-featured-slider.php:172
+#: components/editor/elementor/widgets/post-accordion.php:175
+#: components/editor/elementor/widgets/post-block-one.php:253
+#: components/editor/elementor/widgets/post-block-slider.php:160
+#: components/editor/elementor/widgets/post-featured-tab.php:134
+#: components/editor/elementor/widgets/post-grid.php:331
+#: components/editor/elementor/widgets/post-list-tab.php:106
+#: components/editor/elementor/widgets/post-list.php:248
+#: components/editor/elementor/widgets/post-tab-2.php:220
+#: components/editor/elementor/widgets/post-tab.php:250
+#: components/editor/elementor/widgets/vertical-slider-1.php:203
+#: components/editor/elementor/widgets/vertical-slider-2.php:257
+#: components/editor/elementor/widgets/vertical-slider-3.php:184
+#: components/editor/elementor/widgets/vertical-slider-4.php:206
+#: components/editor/elementor/widgets/video-post-slider.php:155
+#: components/editor/elementor/widgets/video-post-tab.php:98
+msgid "Latest posts"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:198
+#: components/editor/elementor/widgets/home-featured-slider.php:173
+#: components/editor/elementor/widgets/post-accordion.php:176
+#: components/editor/elementor/widgets/post-block-one.php:254
+#: components/editor/elementor/widgets/post-block-slider.php:161
+#: components/editor/elementor/widgets/post-featured-tab.php:135
+#: components/editor/elementor/widgets/post-grid.php:332
+#: components/editor/elementor/widgets/post-list.php:249
+#: components/editor/elementor/widgets/post-tab-2.php:221
+#: components/editor/elementor/widgets/post-tab.php:251
+#: components/editor/elementor/widgets/trending-post.php:177
+#: components/editor/elementor/widgets/vertical-slider-1.php:204
+#: components/editor/elementor/widgets/vertical-slider-2.php:258
+#: components/editor/elementor/widgets/vertical-slider-3.php:185
+#: components/editor/elementor/widgets/vertical-slider-4.php:207
+#: components/editor/elementor/widgets/video-post-slider.php:156
+#: components/editor/elementor/widgets/video-post-tab.php:99
+msgid "Popular posts"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:199
+#: components/editor/elementor/widgets/home-featured-slider.php:174
+#: components/editor/elementor/widgets/post-accordion.php:177
+#: components/editor/elementor/widgets/post-block-one.php:255
+#: components/editor/elementor/widgets/post-block-slider.php:162
+#: components/editor/elementor/widgets/post-featured-tab.php:136
+#: components/editor/elementor/widgets/post-grid.php:333
+#: components/editor/elementor/widgets/post-list-tab.php:108
+#: components/editor/elementor/widgets/post-list.php:250
+#: components/editor/elementor/widgets/post-tab-2.php:222
+#: components/editor/elementor/widgets/post-tab.php:252
+#: components/editor/elementor/widgets/trending-post.php:178
+#: components/editor/elementor/widgets/vertical-slider-1.php:205
+#: components/editor/elementor/widgets/vertical-slider-2.php:259
+#: components/editor/elementor/widgets/vertical-slider-3.php:186
+#: components/editor/elementor/widgets/vertical-slider-4.php:208
+#: components/editor/elementor/widgets/video-post-slider.php:157
+#: components/editor/elementor/widgets/video-post-tab.php:100
+msgid "Most discussed"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:206
+#: components/editor/elementor/widgets/home-featured-slider.php:181
+#: components/editor/elementor/widgets/post-accordion.php:184
+#: components/editor/elementor/widgets/post-block-one.php:262
+#: components/editor/elementor/widgets/post-block-slider.php:169
+#: components/editor/elementor/widgets/post-featured-tab.php:143
+#: components/editor/elementor/widgets/post-grid.php:340
+#: components/editor/elementor/widgets/post-list.php:257
+#: components/editor/elementor/widgets/post-tab-2.php:229
+#: components/editor/elementor/widgets/post-tab.php:259
+#: components/editor/elementor/widgets/trending-post.php:185
+#: components/editor/elementor/widgets/vertical-slider-1.php:212
+#: components/editor/elementor/widgets/vertical-slider-2.php:266
+#: components/editor/elementor/widgets/vertical-slider-3.php:193
+#: components/editor/elementor/widgets/vertical-slider-4.php:215
+#: components/editor/elementor/widgets/video-post-slider.php:164
+#: components/editor/elementor/widgets/video-post-tab.php:107
+msgid "Post order"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:210
+#: components/editor/elementor/widgets/home-featured-slider.php:185
+#: components/editor/elementor/widgets/post-accordion.php:188
+#: components/editor/elementor/widgets/post-block-one.php:266
+#: components/editor/elementor/widgets/post-block-slider.php:173
+#: components/editor/elementor/widgets/post-featured-tab.php:147
+#: components/editor/elementor/widgets/post-grid.php:344
+#: components/editor/elementor/widgets/post-list.php:261
+#: components/editor/elementor/widgets/post-tab-2.php:233
+#: components/editor/elementor/widgets/post-tab.php:263
+#: components/editor/elementor/widgets/trending-post.php:189
+#: components/editor/elementor/widgets/vertical-slider-1.php:216
+#: components/editor/elementor/widgets/vertical-slider-2.php:270
+#: components/editor/elementor/widgets/vertical-slider-3.php:197
+#: components/editor/elementor/widgets/vertical-slider-4.php:219
+#: components/editor/elementor/widgets/video-post-slider.php:168
+#: components/editor/elementor/widgets/video-post-tab.php:111
+msgid "Descending"
+msgstr ""
+
+#: components/editor/elementor/widgets/featured-post.php:211
+#: components/editor/elementor/widgets/home-featured-slider.php:186
+#: components/editor/elementor/widgets/post-accordion.php:189
+#: components/editor/elementor/widgets/post-block-one.php:267
+#: components/editor/elementor/widgets/post-block-slider.php:174
+#: components/editor/elementor/widgets/post-featured-tab.php:148
+#: components/editor/elementor/widgets/post-grid.php:345
+#: components/editor/elementor/widgets/post-list.php:262
+#: components/editor/elementor/widgets/post-tab-2.php:234
+#: components/editor/elementor/widgets/post-tab.php:264
+#: components/editor/elementor/widgets/trending-post.php:190
+#: components/editor/elementor/widgets/vertical-slider-1.php:217
+#: components/editor/elementor/widgets/vertical-slider-2.php:271
+#: components/editor/elementor/widgets/vertical-slider-3.php:198
+#: components/editor/elementor/widgets/vertical-slider-4.php:220
+#: components/editor/elementor/widgets/video-post-slider.php:169
+#: components/editor/elementor/widgets/video-post-tab.php:112
+msgid "Ascending"
+msgstr ""
+
+#: components/editor/elementor/widgets/home-featured-slider.php:16
+msgid "Home Features Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/home-featured-slider.php:96
+msgid "Desc Limit"
+msgstr ""
+
+#: components/editor/elementor/widgets/instagram-feed.php:19
+msgid "Gallery Images"
+msgstr ""
+
+#: components/editor/elementor/widgets/instagram-feed.php:36
+msgid "Gallery settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/instagram-feed.php:43
+msgid "Add Images"
+msgstr ""
+
+#: components/editor/elementor/widgets/logo.php:19
+msgid "Site Logo"
+msgstr ""
+
+#: components/editor/elementor/widgets/logo.php:42
+msgid "Use light logo?"
+msgstr ""
+
+#: components/editor/elementor/widgets/logo.php:64
+msgid "Logo Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/logo.php:75
+msgid "Logo Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/nav-search.php:19
+msgid "Search"
+msgstr ""
+
+#: components/editor/elementor/widgets/nav-search.php:43
+#: components/editor/elementor/widgets/trending-slider-post.php:43
+msgid "Primary Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-accordion.php:16
+msgid "Post Accordion"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-accordion.php:132
+#: components/editor/elementor/widgets/post-featured-tab.php:77
+#: components/editor/elementor/widgets/post-list-tab.php:83
+#: components/editor/elementor/widgets/post-list.php:181
+#: components/editor/elementor/widgets/post-list.php:191
+#: components/editor/elementor/widgets/post-tab-2.php:173
+#: components/editor/elementor/widgets/post-tab.php:161
+#: components/editor/elementor/widgets/trending-post.php:111
+#: components/editor/elementor/widgets/vertical-slider-1.php:130
+#: components/editor/elementor/widgets/vertical-slider-3.php:128
+#: components/editor/elementor/widgets/video-post-slider.php:47
+#: components/editor/elementor/widgets/video-post-tab.php:54
+msgid "Post title crop"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-accordion.php:240
+msgid "Details"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-one.php:16
+msgid "Post Block"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-one.php:133
+#: components/editor/elementor/widgets/post-grid.php:144
+#: components/editor/elementor/widgets/post-list.php:150
+#: components/editor/elementor/widgets/vertical-slider-4.php:122
+msgid "Show big post title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-one.php:145
+msgid "Show big post desc"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-one.php:155
+#: components/editor/elementor/widgets/post-block-slider.php:84
+#: components/editor/elementor/widgets/post-grid.php:198
+#: components/editor/elementor/widgets/vertical-slider-1.php:148
+#: components/editor/elementor/widgets/vertical-slider-2.php:201
+#: components/editor/elementor/widgets/vertical-slider-4.php:151
+msgid "Description limit"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-one.php:165
+msgid "Small Post title crop"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-one.php:205
+#: components/editor/elementor/widgets/post-grid.php:303
+#: components/editor/elementor/widgets/trending-post.php:131
+#: components/editor/elementor/widgets/video-post-slider.php:129
+msgid "Show Author Image"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-slider.php:16
+msgid "Post Block Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-slider.php:38
+#: components/editor/elementor/widgets/post-grid.php:39
+#: components/editor/elementor/widgets/post-list.php:39
+msgid "Choose Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-slider.php:43
+#: components/editor/elementor/widgets/post-block-slider.php:49
+#: components/editor/elementor/widgets/post-list.php:44
+#: components/editor/elementor/widgets/post-list.php:50
+#: components/editor/elementor/widgets/post-list.php:56
+#: components/editor/elementor/widgets/post-list.php:62
+msgid "Style "
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-slider.php:74
+#: components/editor/elementor/widgets/post-grid.php:187
+#: components/editor/elementor/widgets/post-list.php:201
+#: components/editor/elementor/widgets/vertical-slider-1.php:138
+#: components/editor/elementor/widgets/vertical-slider-2.php:191
+#: components/editor/elementor/widgets/vertical-slider-4.php:141
+msgid "Show post description"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-slider.php:125
+#: components/editor/elementor/widgets/vertical-slider-4.php:161
+msgid "Select categories"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-slider.php:135
+#: components/editor/elementor/widgets/vertical-slider-4.php:171
+msgid "Show date"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-block-slider.php:146
+#: components/editor/elementor/widgets/vertical-slider-4.php:182
+msgid "Show category"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-featured-tab.php:16
+msgid "Post featured Tab"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-featured-tab.php:47
+#: components/editor/elementor/widgets/post-tab-2.php:143
+msgid "Thumbnail height"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-featured-tab.php:85
+#: components/editor/elementor/widgets/post-tab-2.php:181
+#: components/editor/elementor/widgets/post-tab.php:169
+msgid "Select Post Format"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-featured-tab.php:88
+#: components/editor/elementor/widgets/post-tab-2.php:184
+#: components/editor/elementor/widgets/post-tab.php:172
+msgid "Standard"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-featured-tab.php:89
+#: components/editor/elementor/widgets/post-tab-2.php:185
+#: components/editor/elementor/widgets/post-tab.php:173
+msgid "Video"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:16
+msgid "Posts Grid"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:68
+msgid "Style 5"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:74
+msgid "Style 6"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:80
+msgid "Style 7"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:86
+msgid "Style 8"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:92
+msgid "Style 9"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:98
+msgid "Style 10"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:104
+msgid "Style 11"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:118
+msgid "Grid background color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:131
+#: components/theme/options/taxonomies/category.php:11
+msgid "Text color"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:155
+msgid "Show box Shadow"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:177
+#: components/editor/elementor/widgets/vertical-slider-2.php:137
+msgid "Post Title limit"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:218
+#: components/editor/elementor/widgets/video-post-slider.php:56
+msgid "Thumbnail Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-grid.php:248
+#: components/editor/elementor/widgets/vertical-slider-2.php:114
+msgid "margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:16
+msgid "Recent Post"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:38
+msgid "Show BG"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:59
+msgid "Tab Left Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:61
+msgid "RECENT"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:67
+msgid "Tab Right Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:69
+msgid "FAVORITES"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:102
+msgid "Popular post sort by"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-list-tab.php:107
+msgid "View count"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab-2.php:16
+msgid "Post Tab 2"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab-2.php:49
+msgid "Dark background?"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab-2.php:51
+msgid "Dark"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab-2.php:52
+msgid "Light"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab-2.php:241
+msgid "Tabs"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab-2.php:245
+msgid "Add Label"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab-2.php:258
+msgid "Tab title"
+msgstr ""
+
+#: components/editor/elementor/widgets/post-tab.php:131
+msgid "Video height"
+msgstr ""
+
+#: components/editor/elementor/widgets/trending-post.php:16
+msgid "Trending Post Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/trending-slider-post.php:19
+msgid "Breaking Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/trending-slider-post.php:56
+msgid "Secondary Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/trending-slider-post.php:75
+#: template-parts/headers/header-style1.php:87
+#: template-parts/headers/header-style2.php:9
+#: template-parts/headers/header-style3.php:9
+#: template-parts/headers/header-style4.php:9
+#: template-parts/headers/header-style8.php:9
+msgid "Breaking News :"
+msgstr ""
+
+#: components/editor/elementor/widgets/trending-slider-post.php:93
+#: template-parts/headers/header-style1.php:105
+#: template-parts/headers/header-style2.php:27
+#: template-parts/headers/header-style3.php:27
+#: template-parts/headers/header-style4.php:27
+#: template-parts/headers/header-style8.php:27
+msgid "nothing found"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-slider-1.php:16
+msgid "Vertical Post Slider 1"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-slider-2.php:16
+msgid "Vertical grid post"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-slider-2.php:32
+msgid "populer post"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-slider-2.php:171
+msgid "Post text color"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-slider-3.php:16
+msgid "Vertical Post Slider 3"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-slider-3.php:112
+msgid "Block Background"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-slider-4.php:16
+msgid "Vertical Post Slider 2"
+msgstr ""
+
+#: components/editor/elementor/widgets/vertical-slider-4.php:112
+msgid "Show block shadow"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:19
+msgid "Video Popup"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-popup.php:65
+msgid "icon color"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-slider.php:16
+msgid "Video Post Slider"
+msgstr ""
+
+#: components/editor/elementor/widgets/video-post-tab.php:16
+msgid "Video Post Tab"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:71
+msgid "select1"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:72
+msgid "select2"
+msgstr ""
+
+#: components/option-types/fw-multi-inline/class-fw-option-type-fw-multi-inline.php:73
+msgid "select3"
+msgstr ""
+
+#: components/theme/options/customizer.php:9
+msgid "Theme settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:7
+msgid "Ads settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:13
+#: components/theme/options/customizer/options-ads.php:14
+msgid "Top banner"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:19
+#: components/theme/options/customizer/options-ads.php:44
+msgid "Ad link"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:22
+#: components/theme/options/customizer/options-ads.php:47
+msgid "Ad Image"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:28
+#: components/theme/options/customizer/options-ads.php:53
+msgid "Ad html"
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:29
+#: components/theme/options/customizer/options-ads.php:54
+msgid "You can use Adsense code here."
+msgstr ""
+
+#: components/theme/options/customizer/options-ads.php:38
+#: components/theme/options/customizer/options-ads.php:39
+msgid "Category Post banner"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:7
+msgid "Post blocks & listing settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:10
+#: components/theme/options/taxonomies/category.php:54
+msgid "Category template"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:11
+#: components/theme/options/taxonomies/category.php:55
+msgid "Post block style in category pages."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:48
+#: components/theme/options/taxonomies/category.php:92
+msgid "Show featured posts"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:49
+#: components/theme/options/taxonomies/category.php:93
+msgid "Show or hide featured posts in category's top section"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:63
+#: components/theme/options/taxonomies/category.php:107
+msgid "Featured post style"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:64
+#: components/theme/options/taxonomies/category.php:108
+msgid "Featured post style in category pages."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:82
+#: components/theme/options/taxonomies/category.php:126
+msgid "Category sidebar layout"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:83
+#: components/theme/options/taxonomies/category.php:127
+msgid "The sidebar position of a blog category."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:100
+#: components/theme/options/taxonomies/category.php:144
+msgid "Pagination alignment"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:101
+#: components/theme/options/taxonomies/category.php:145
+msgid "Pagination alignment in blog category page."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:115
+#: components/theme/options/taxonomies/category.php:159
+msgid "Custom post word length"
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:116
+#: components/theme/options/taxonomies/category.php:160
+msgid "Enable disable custom post word length."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:131
+#: components/theme/options/taxonomies/category.php:175
+msgid "Post word limit."
+msgstr ""
+
+#: components/theme/options/customizer/options-blocks.php:132
+#: components/theme/options/taxonomies/category.php:176
+msgid "Post word limit, example: 100"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:7
+msgid "Blog settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:10
+msgid "Global blog title"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:14
+msgid "Global header background image"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:18
+#: components/theme/options/posts/post.php:63
+msgid "Post header layout"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:19
+#: components/theme/options/posts/post.php:64
+msgid "Single post's header style."
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:62
+#: components/theme/options/posts/post.php:107
+msgid "Post sidebar layout"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:63
+#: components/theme/options/posts/post.php:108
+msgid "The sidebar position of a blog post."
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:79
+msgid "Post view counter"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:80
+msgid "Do you want to show the view counter in posts?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:93
+msgid "Blog author name"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:94
+msgid "Do you want to show blog author?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:107
+msgid "Blog author details"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:108
+msgid "Do you want to show author details at the end of a post?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:121
+msgid "Blog author image"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:122
+msgid "Do you want to show the avatar of the author in blog post?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:135
+msgid "Social share"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:136
+msgid "Do you want to show social share buttons?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:149
+msgid "Post date"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:150
+msgid "Do you want to show post date?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:163
+msgid "Post category"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:164
+msgid "Do you want to show post category in colored-batch?"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:177
+msgid "Popular posts slider"
+msgstr ""
+
+#: components/theme/options/customizer/options-blog.php:178
+msgid "Do you want to show popular post slider in each post's footer section?"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:7
+msgid "Footer settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:15
+msgid "Show newslatter"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:16
+msgid "Show or hide the \"newslatter form\" in footer."
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:32
+msgid "Change newslatter settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:33
+msgid "Newslatter settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:38
+msgid "Newslatter title"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:42
+msgid "Newslatter promot text"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:43
+msgid "This text will be displayed just under the title."
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:47
+msgid "Newslatter shortcode"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:48
+msgid ""
+"Put your newslatter shortcode here. This shortcode should display the form."
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:58
+msgid "Copyright text"
+msgstr ""
+
+#: components/theme/options/customizer/options-footer.php:59
+msgid "This text will be shown at the footer of all pages."
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:7
+msgid "General settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:10
+msgid "Dark logo"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:11
+msgid ""
+"It's the main logo, mostly it will be shown on \"light background\" type "
+"area."
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:16
+msgid "Light logo"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:17
+msgid "It will be shown on any \"dark or coloreful\" type area."
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:23
+msgid "Sticky sidebar"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:24
+msgid "Use sticky sidebar?"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:37
+msgid "Breadcrumb"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:38
+msgid "Do you want to show breadcrumb?"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:51
+msgid "Breadcrumb word length"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:52
+msgid "The length of the breadcumb text."
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:59
+msgid "Social links"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:60
+msgid ""
+"Add social links and it's icon class bellow. These are all fontaweseome-4.7 "
+"icons."
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:61
+msgid "Add new"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:69
+msgid "Social icon"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:73
+msgid "Social link"
+msgstr ""
+
+#: components/theme/options/customizer/options-general.php:78
+msgid "Facebook"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:7
+msgid "Header settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:10
+#: components/theme/options/posts/page.php:25
+msgid "Header style"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:11
+#: components/theme/options/posts/page.php:26
+msgid "This is the site's main header style."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:56
+msgid "Show topbar"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:57
+msgid "Show or hide the topbar in header."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:70
+msgid "Show banner"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:71
+msgid "Show or hide the ad banner in header."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:84
+msgid "Show search"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:85
+msgid "Show or hide the search button in header."
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:98
+msgid "Show login"
+msgstr ""
+
+#: components/theme/options/customizer/options-header.php:99
+msgid "Show or hide the login button in header."
+msgstr ""
+
+#: components/theme/options/customizer/options-page.php:7
+msgid "Page settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-page.php:11
+msgid "Page breadcrumb"
+msgstr ""
+
+#: components/theme/options/customizer/options-page.php:12
+msgid "Do you want to show breadcrumb in all pages ?"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:7
+msgid "Style settings"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:11
+msgid "Body Font"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:12
+msgid "Choose the typography for the title"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:38
+msgid "Heading Fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:39
+msgid "This is for heading google fonts"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:42
+#: components/theme/options/taxonomies/category.php:31
+msgid "Body background"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:43
+#: components/theme/options/customizer/options-style.php:55
+#: components/theme/options/taxonomies/category.php:32
+msgid "Site's main background color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:48
+msgid "Primary color"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:49
+msgid "Site's main color."
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:54
+msgid "Primary background dark"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:61
+#: components/theme/options/taxonomies/category.php:38
+msgid "Box sadow?"
+msgstr ""
+
+#: components/theme/options/customizer/options-style.php:62
+#: components/theme/options/taxonomies/category.php:39
+msgid "Do you want to use box shadow on post blocks?"
+msgstr ""
+
+#: components/theme/options/posts/page.php:6
+msgid "Page header style"
+msgstr ""
+
+#: components/theme/options/posts/page.php:13
+#: components/theme/options/posts/post.php:51
+#: components/theme/options/taxonomies/category.php:19
+msgid "Override default layouts?"
+msgstr ""
+
+#: components/theme/options/posts/page.php:14
+#: components/theme/options/posts/post.php:52
+#: components/theme/options/taxonomies/category.php:20
+msgid "You can change the default options from customizer's \"Blog settings\"."
+msgstr ""
+
+#: components/theme/options/posts/post.php:5
+msgid "Featured video"
+msgstr ""
+
+#: components/theme/options/posts/post.php:12
+msgid "Video URL"
+msgstr ""
+
+#: components/theme/options/posts/post.php:13
+msgid ""
+"Paste a video link from Youtube, Vimeo, Dailymotion, Facebook or Twitter it "
+"will be embedded in the post and the thumb used as the featured image of "
+"this post. \n"
+"\t\t\t\tYou need to choose \"Video Format\" as post format to use \"Featured "
+"Video\"."
+msgstr ""
+
+#: components/theme/options/posts/post.php:21
+msgid "Breaking news"
+msgstr ""
+
+#: components/theme/options/posts/post.php:29
+msgid "Set as breaking news?"
+msgstr ""
+
+#: components/theme/options/posts/post.php:44
+msgid "Post layout"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:5
+msgid "Highlight color"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:6
+msgid "This will be used as the primary color for this category"
+msgstr ""
+
+#: components/theme/options/taxonomies/category.php:12
+msgid ""
+"Choose a color that is easily readable within the highlight color background."
+msgstr ""
+
+#: core/helpers/functions/template.php:106
+msgid "Share :"
+msgstr ""
+
+#: core/helpers/functions/template.php:138
+msgid "Tags: "
+msgstr ""
+
+#: core/helpers/functions/template.php:184
+msgid "says:"
+msgstr ""
+
+#: core/helpers/functions/template.php:188
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/helpers/functions/template.php:195
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: core/helpers/functions/template.php:198
+msgid "(Edit)"
+msgstr ""
+
+#: core/helpers/functions/template.php:214
+msgid "More pages: "
+msgstr ""
+
+#: core/helpers/functions/template.php:220
+msgid "Next "
+msgstr ""
+
+#: core/helpers/functions/template.php:221
+msgid " Previous"
+msgstr ""
+
+#: core/hooks/blog.php:96
+msgid "Type and hit ENTER"
+msgstr ""
+
+#: core/hooks/sidebars.php:10
+msgid "Primary sidebar"
+msgstr ""
+
+#: core/hooks/sidebars.php:12
+msgid "Appears on posts, pages and categories."
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:9
+msgid "Unyson"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:14
+msgid "Vinkmag Essentials"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:20
+msgid "Header Footer Builder"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:26
+msgid "Mega menu"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:32
+msgid "Elementor"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:37
+msgid "Social counter"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:42
+msgid "Mainchimp for WP"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:47
+msgid "Easy Forms for MailChimp"
+msgstr ""
+
+#: core/installation-fragments/theme-demos.php:7
+msgid "Demo"
+msgstr ""
+
+#: functions.php:78
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:79
+msgid "Top menu"
+msgstr ""
+
+#: functions.php:80
+msgid "Footer menu"
+msgstr ""
+
+#: header.php:23
+msgid "Cancel Preloader"
+msgstr ""
+
+#: template-parts/blogs/breadcumbs/breadcumb-style-category.php:10
+#: template-parts/blogs/breadcumbs/breadcumb-style1.php:11
+msgid "Home"
+msgstr ""
+
+#: template-parts/blogs/breadcumbs/breadcumb-style-category.php:40
+#: template-parts/blogs/breadcumbs/breadcumb-style-category.php:44
+#: template-parts/blogs/breadcumbs/breadcumb-style-category.php:48
+#: template-parts/blogs/breadcumbs/breadcumb-style1.php:41
+#: template-parts/blogs/breadcumbs/breadcumb-style1.php:45
+#: template-parts/blogs/breadcumbs/breadcumb-style1.php:49
+msgid "Blogs for"
+msgstr ""
+
+#: template-parts/blogs/breadcumbs/breadcumb-style-category.php:52
+#: template-parts/blogs/breadcumbs/breadcumb-style1.php:53
+msgid "Author Blogs"
+msgstr ""
+
+#: template-parts/blogs/breadcumbs/breadcumb-style-category.php:55
+#: template-parts/blogs/breadcumbs/breadcumb-style1.php:56
+msgid "Blogs"
+msgstr ""
+
+#: template-parts/blogs/breadcumbs/breadcumb-style-category.php:58
+#: template-parts/blogs/breadcumbs/breadcumb-style1.php:59
+msgid "Search Result"
+msgstr ""
+
+#: template-parts/blogs/breadcumbs/breadcumb-style-category.php:61
+#: template-parts/blogs/breadcumbs/breadcumb-style1.php:62
+msgid "404 Not Found"
+msgstr ""
+
+#: template-parts/blogs/contents/content-default.php:39
+#: template-parts/blogs/contents/content-search.php:39
+msgid "Sticky"
+msgstr ""
+
+#: template-parts/blogs/contents/content-default.php:82
+#: template-parts/blogs/contents/content-search.php:69
+#: template-parts/blogs/contents/content-style8.php:74
+msgid "Read More"
+msgstr ""
+
+#: template-parts/blogs/contents/content-none.php:2
+msgid "Nothing found!"
+msgstr ""
+
+#: template-parts/blogs/contents/content-none.php:3
+msgid "It looks like nothing was found here. Maybe try a search?"
+msgstr ""
+
+#: template-parts/blogs/contents/content-single.php:9
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: template-parts/blogs/contents/content.php:52
+msgid "Featured"
+msgstr ""
+
+#: template-parts/blogs/post-footers/footer-popular-post-style1.php:15
+msgid "Most Popular"
+msgstr ""
+
+#: template-parts/blogs/post-footers/footer-popular-post-style1.php:50
+msgid "Nothing found"
+msgstr ""
+
+#: template-parts/blogs/post-footers/footer-style1.php:34
+msgid "Read Previous"
+msgstr ""
+
+#: template-parts/blogs/post-footers/footer-style1.php:45
+msgid "Read Next"
+msgstr ""
+
+#: template-parts/blogs/post-headers/header-style2.php:44
+#: template-parts/blogs/post-headers/header-style3.php:45
+#: template-parts/blogs/post-headers/header-style4.php:44
+msgid "No Comments"
+msgstr ""
+
+#: template-parts/blogs/post-headers/header-style2.php:46
+#: template-parts/blogs/post-headers/header-style3.php:47
+#: template-parts/blogs/post-headers/header-style4.php:46
+msgid " Comments"
+msgstr ""
+
+#: template-parts/blogs/post-headers/header-style2.php:48
+#: template-parts/blogs/post-headers/header-style3.php:49
+#: template-parts/blogs/post-headers/header-style4.php:48
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/blogs/post-headers/header-style2.php:52
+#: template-parts/blogs/post-headers/header-style3.php:53
+#: template-parts/blogs/post-headers/header-style4.php:52
+msgid "Comments are off"
+msgstr ""
+
+#: template-parts/headers/header-style2.php:54
+msgid "subscribe"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeforest.net/user/xpeedstudio/portfolio?ref=XpeedStudio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a skull theme which we use to develope new themes. textdomain: "
+"vinkmag, class: Vinkmag, var: $vinkmag_, constants: VINKMAG_, function: "
+"vinkmag_"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "XpeedStudio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.xpeedstudio.com"
+msgstr ""

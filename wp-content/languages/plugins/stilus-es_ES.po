@@ -1,0 +1,89 @@
+# Translation of Plugins - Stilus - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Stilus - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-28 15:25:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Stilus - Stable (latest release)\n"
+
+#: inc/templates/stilusInfoPopup.php:15
+msgid " your username and password."
+msgstr "previamente su nombre de usuario y su clave de acceso."
+
+#: inc/templates/stilusInfoPopup.php:14
+msgid "Before using Stilus, you must "
+msgstr "Para poder utilizar Stilus es necesario que "
+
+#: inc/stilusSettings.class.php:126
+msgid "Error Ocurred: You need admin permissions to access this page.."
+msgstr "Error: Necesita permisos de usuario administrador para acceder a esta página."
+
+#: inc/stilusSettings.class.php:149
+msgid "General Settings"
+msgstr "General"
+
+#: inc/stilusSettings.class.php:73
+msgid "Insert the same username and password you used to register in"
+msgstr "Introduce tus credenciales de usuario registrado en"
+
+#: inc/stilus.class.php:53 inc/stilus.class.php:59 inc/stilus.class.php:63
+msgid "Stilus Check report"
+msgstr "Revisar con Stilus"
+
+#: inc/stilusSettings.class.php:111
+msgid "Stilus Plugin Settings"
+msgstr "Configuración del Plugin Stilus"
+
+#: inc/stilusSettings.class.php:36
+msgid "Stilus plugin general configuration"
+msgstr "Configuración general para el plugin"
+
+#: inc/stilus.class.php:77
+msgid "Warning: The proofreading with Stilus can only be performed in the Visual editor. Please change the edition mode."
+msgstr "Atención: La revisión con Stilus sólo funciona sobre el editor en modo \"visual\". Por favor, cambie el modo de edición."
+
+#: inc/stilusSettings.class.php:76
+msgid "You can"
+msgstr "Puedes"
+
+#: inc/stilusSettings.class.php:78
+msgid "configure"
+msgstr "configurar"
+
+#: inc/templates/stilusInfoPopup.php:14
+msgid "insert"
+msgstr "introduzca"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Stilus"
+msgstr "Stilus"
+
+#. Description of the plugin
+msgid "The plugin Stilus for WordPress enables you to get a check report of your contents in Spanish before publishing them in your WordPress website."
+msgstr "El complemento de Stilus para WordPress le permite obtener informes de revisión de sus contenidos en español antes de publicarlos en su sitio WordPress."
+
+#. Author URI of the plugin
+msgid "http://www.mystilus.com/"
+msgstr "http://www.mystilus.com/"
+
+#: inc/stilusSettings.class.php:80
+msgid "your proofreading options from your account in mystilus.com."
+msgstr "tus opciones de revisión en el área de usuario de www.mystilus.com."
+
+#: inc/stilusSettings.class.php:54
+msgid "Password"
+msgstr "Contrase&ntilde;a"
+
+#: inc/stilusSettings.class.php:43
+msgid "User"
+msgstr "usuario:"
+
+#: inc/stilus.class.php:108
+msgid "Settings"
+msgstr "Configurar"

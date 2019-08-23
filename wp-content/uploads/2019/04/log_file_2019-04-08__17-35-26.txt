@@ -1,0 +1,40 @@
+
+---Descargar archivos---
+The import files for: Main Demo were successfully downloaded!
+MAX EXECUTION TIME = 300
+Files info:
+Site URL = https://zopplo.com
+Data file = /home/zopplocouo/www/wp-content/uploads/2019/04/demo-content-import-file_2019-04-08__17-35-26.xml
+Widget file = ¡No definido!
+Customizer file = ¡No definido!
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 1
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 2
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+---Importando contenido---
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 512M
+
+---Debugging---
+After importing the media files from the XML
+
+---pt-ocdi/before_widgets_import---
+
+
+---Completado---
+The Demo has been imported in 19.044266939163econds.
